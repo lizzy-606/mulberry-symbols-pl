@@ -71,15 +71,16 @@ Zasady tłumaczenia:
   mówi, jaką formę zapisano. Tam, gdzie to możliwe, wybrano formę neutralną rodzajowo
   (np. „w związku małżeńskim”, „na emeryturze”). Pary rodzajowe „-y/-a” czy osobne symbole to decyzja otwarta.
 - Zawody (`People Profession`): `_1x` = postać męska, `_2x` = żeńska (sprawdzone wizualnie na kilku zawodach),
-  litera `a`/`b` = odcień skóry; nazwy mają rodzaj zgodny z postacią. Symbole `care_assistant_*` pokazują
+  litery `a`–`d` = odcienie skóry (u taksówkarzy `a`/`b` i `c`/`d` to dwie pary postaci); nazwy mają rodzaj zgodny z postacią. Symbole `care_assistant_*` pokazują
   wyłącznie postać męską (sprawdzone na obrazach).
 - Alfabet: litery łacińskie bez polskich znaków diakrytycznych (`ą ć ę ł ń ó ś ź ż` nie występują w źródle).
-- Tłumaczenia powstały z angielskich nazw, głównie bez oglądania obrazów, i wymagają przeglądu merytorycznego.
-  Wizualnie zweryfikowano wybrane symbole niepewne (m.in. `care_assistant_*`, `off`, `currants`, `arm`, `beanbag`,
-  `lantern`, `scales`).
+- Tłumaczenia powstały z angielskich nazw. Każdy symbol, który miał wątpliwość znaczeniową (ponad 170 symboli:
+  rzeczowniki, przymiotniki, wyrażenia i czasowniki), obejrzano na obrazie i poprawiono; ponadto obejrzano obrazy wszystkich
+  464 czasowników. Pozostałych symboli (zwykłe przedmioty, zwierzęta, ludzie) nie oglądano pojedynczo: tłumaczenie
+  wynika z nazwy i tagów. Całość nadal wymaga przeglądu merytorycznego przez osobę znającą materiał.
+  Gdy o znaczeniu zdecydował obraz, w `uwagi` jest wpis zaczynający się od „obraz:”.
 
-Flagi w kolumnie `flaga` (można łączyć): `V` tłumaczenie niepewne, do sprawdzenia na obrazie (176 symboli);
-`K` treść specyficzna kulturowo (UK) lub idiom (111); `B` nazwa handlowa (21); `E` literówka lub błąd w źródle (14);
+Flagi w kolumnie `flaga` (można łączyć): `K` treść specyficzna kulturowo (UK) lub idiom (111); `B` nazwa handlowa (21); `E` literówka lub błąd w źródle (14);
 `N` nie-państwo: terytorium, region, organizacja (90); `P` status sporny lub niepowszechnie uznawany (14);
 `M` czasownik ruchu (7); `G` gramatyka w źródle niespójna z nazwą (3); `R` oznaczone w źródle jako `rated=1` (6).
 
@@ -109,18 +110,22 @@ dodatkowo osobny symbol czasownikowy `copy_,_to`.
   17 klas semantycznych (kolumna `klasa-semantyczna`) i 33 podklasy w ośmiu klasach (ruch; manipulowanie przedmiotami;
   gotowanie i obróbka żywności; relacje społeczne i opieka; higiena i ubieranie się; gra, sport i wypoczynek;
   zmiana stanu; prace domowe i ogrodowe), tam gdzie klasa była zbyt różnorodna. Jedna klasa na symbol, według
-  znaczenia, nie tematyki kategorii źródłowej. Największa klasa to manipulowanie przedmiotami (57), podzielona na sześć podklas.
+  znaczenia, nie tematyki kategorii źródłowej. Największa klasa to manipulowanie przedmiotami (52), podzielona na sześć podklas.
 - `domena-wordnet` to przybliżone, ręczne przyporządkowanie do jednej z 15 domen leksykograficznych czasowników
   Princeton WordNet (`verb.body`, `verb.change`, `verb.cognition`, `verb.communication`, `verb.competition`,
   `verb.consumption`, `verb.contact`, `verb.creation`, `verb.emotion`, `verb.motion`, `verb.perception`,
   `verb.possession`, `verb.social`, `verb.stative`, `verb.weather`); Słowosieć (plWordNet) ma analogiczny zestaw.
   Nie jest to wyszukanie w słowniku, tylko mój przydział według znaczenia i polskiego bezokolicznika; służy do
   porównań z innymi zasobami, a nie do rozstrzygnięć. Domena `weather` nie występuje.
-- Aspekt: 462 bezokoliczniki niedokonane, 2 dokonane (`znaleźć`, `spóźnić się na autobus`).
+- Aspekt: 461 bezokoliczników niedokonanych, 3 dokonane (`znaleźć`, `spóźnić się na autobus`, `oparzyć się`).
   Zasada cytowania i pary aspektowe pozostają do decyzji.
 - Czasowniki ruchu mają pary określony/nieokreślony (iść/chodzić, biec/biegać, jechać/jeździć); zaznaczono je w `uwagi`.
-- 66 pozycji to warianty obrazu tego samego leksemu, 10 ma znaczenie do potwierdzenia na obrazie
-  (nazwy angielskie bywają wieloznaczne). Czasowniki powstały bez oglądania obrazów.
+- Obejrzano obrazy wszystkich czasowników. Nazwy angielskie bywają wieloznaczne albo mylące, więc obraz
+  zmienił znaczenie m.in. w: `hang` (wisieć na drążku, nie wieszać), `shake` (trząść się), `stamp` (tupać),
+  `slide` (ślizgać się, nie zjeżdżalnia), `dive` i `dive_2` (skok do wody, nie nurkowanie), `bend` (schylać się),
+  `stretch` (rozciągać przedmiot), `cheat` (ściągać), `decorate` (brytyjskie „remont”), `sign` (migać),
+  `talk_3` i `talk_4` (rozmawiać), `order_2` (rozkazywać). Przy `sign` interpretacja jest moja i wymaga potwierdzenia
+  przez osobę znającą Makaton lub PJM, bo na obrazie nie ma długopisu ani kartki.
 - Pięć czasowników w kategorii źródłowej `People Actions` rozchodzi się po klasach znaczeniowych (ruch, odpoczynek, praca).
 
 ## Licencja i atrybucja
