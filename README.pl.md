@@ -74,8 +74,8 @@ Zasady tłumaczenia:
   litery `a`–`d` = odcienie skóry (u taksówkarzy `a`/`b` i `c`/`d` to dwie pary postaci); nazwy mają rodzaj zgodny z postacią. Symbole `care_assistant_*` pokazują
   wyłącznie postać męską (sprawdzone na obrazach).
 - Alfabet: litery łacińskie bez polskich znaków diakrytycznych (`ą ć ę ł ń ó ś ź ż` nie występują w źródle).
-- Tłumaczenia powstały z angielskich nazw. Każdy symbol, który miał wątpliwość znaczeniową (ponad 170 symboli:
-  rzeczowniki, przymiotniki, wyrażenia i czasowniki), obejrzano na obrazie i poprawiono; ponadto obejrzano obrazy wszystkich
+- Tłumaczenia powstały z angielskich nazw. Każdy symbol, który miał wątpliwość znaczeniową
+  (wszystkie dawniej oznaczone flagą V), obejrzano na obrazie i poprawiono; ponadto obejrzano obrazy wszystkich
   464 czasowników. Pozostałych symboli (zwykłe przedmioty, zwierzęta, ludzie) nie oglądano pojedynczo: tłumaczenie
   wynika z nazwy i tagów. Całość nadal wymaga przeglądu merytorycznego przez osobę znającą materiał.
   Gdy o znaczeniu zdecydował obraz, w `uwagi` jest wpis zaczynający się od „obraz:”.
@@ -112,7 +112,7 @@ dodatkowo osobny symbol czasownikowy `copy_,_to`.
   zmiana stanu; prace domowe i ogrodowe), tam gdzie klasa była zbyt różnorodna. Jedna klasa na symbol, według
   znaczenia, nie tematyki kategorii źródłowej. Największa klasa to manipulowanie przedmiotami (52), podzielona na sześć podklas.
 - `domena-wordnet` to przybliżone, ręczne przyporządkowanie do jednej z 15 domen leksykograficznych czasowników
-  Princeton WordNet (`verb.body`, `verb.change`, `verb.cognition`, `verb.communication`, `verb.competition`,
+  Princeton WordNet (w danych użyto 14 z nich) (`verb.body`, `verb.change`, `verb.cognition`, `verb.communication`, `verb.competition`,
   `verb.consumption`, `verb.contact`, `verb.creation`, `verb.emotion`, `verb.motion`, `verb.perception`,
   `verb.possession`, `verb.social`, `verb.stative`, `verb.weather`); Słowosieć (plWordNet) ma analogiczny zestaw.
   Nie jest to wyszukanie w słowniku, tylko mój przydział według znaczenia i polskiego bezokolicznika; służy do

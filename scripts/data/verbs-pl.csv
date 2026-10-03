@@ -12,7 +12,7 @@ symbol-id,symbol-en,grammar,category-id,bezokolicznik-pl,aspekt,klasa-semantyczn
 289,"brush_teeth_,_to",VerbComplex,75,myć zęby,ndk,higiena i ubieranie się,higiena-i-ubieranie,mycie i suszenie,mycie-i-suszenie,body,"idiom polski: myć, nie szczotkować"
 410,"celebrate_2_,_to",Verb,27,wiwatować,ndk,relacje społeczne i opieka,relacje-i-opieka,rytuał i święto,rytual-i-swieto,social,obraz: dwie postacie z uniesionymi pięściami
 411,"celebrate_3_,_to",Verb,27,świętować (szampan),ndk,relacje społeczne i opieka,relacje-i-opieka,rytuał i święto,rytual-i-swieto,social,obraz: korek szampana i balon
-434,"change_nappy_,_to",VerbComplex,75,przewijać dziecko,ndk,higiena i ubieranie się,higiena-i-ubieranie,mycie i suszenie,mycie-i-suszenie,body,dosłownie: zmieniać pieluchę
+434,"change_nappy_,_to",VerbComplex,75,przewijać dziecko,ndk,relacje społeczne i opieka,relacje-i-opieka,opieka nad ludźmi,opieka-nad-ludzmi,body,dosłownie: zmieniać pieluchę
 435,"change_tv_channel_,_to",VerbComplex,53,zmieniać kanał,ndk,obsługa urządzeń,obsluga-urzadzen,,,contact,
 487,"chop_,_to",Verb,64,siekać,ndk,gotowanie i obróbka żywności,gotowanie,przygotowanie składników,przygotowanie-skladnikow,contact,
 514,"clean_shoes_,_to",VerbComplex,20,czyścić buty,ndk,prace domowe i ogrodowe,prace-domowe-i-ogrodowe,dom i porządki,dom-i-porzadki,contact,
@@ -23,7 +23,7 @@ symbol-id,symbol-en,grammar,category-id,bezokolicznik-pl,aspekt,klasa-semantyczn
 595,"cook_,_to",Verb,64,gotować,ndk,gotowanie i obróbka żywności,gotowanie,obróbka cieplna,obrobka-cieplna,creation,
 805,"cover_food_,_to",VerbComplex,64,przykrywać jedzenie,ndk,gotowanie i obróbka żywności,gotowanie,podawanie i przykrywanie,podawanie-i-przykrywanie,motion,
 838,"crush_,_to",Verb,64,ucierać (w moździerzu),ndk,gotowanie i obróbka żywności,gotowanie,przygotowanie składników,przygotowanie-skladnikow,contact,obraz: tłuczek i moździerz
-839,"crush_garlic_,_to",VerbComplex,64,miażdżyć czosnek,ndk,gotowanie i obróbka żywności,gotowanie,przygotowanie składników,przygotowanie-skladnikow,contact,
+839,"crush_garlic_,_to",VerbComplex,64,wyciskać czosnek (praską),ndk,gotowanie i obróbka żywności,gotowanie,przygotowanie składników,przygotowanie-skladnikow,contact,obraz: praska do czosnku
 853,"cycle_,_to",Verb,103,jeździć na rowerze,ndk,ruch,ruch,pojazdy i pływanie,pojazdy-i-plywanie,motion,czasownik ruchu (jeździć / jechać)
 870,"decorate_cake_,_to",VerbComplex,64,dekorować ciasto,ndk,gotowanie i obróbka żywności,gotowanie,"mieszanie, nakładanie i dekorowanie",mieszanie-nakladanie-i-dekorowanie,creation,
 871,"decorate_tree_,_to",VerbComplex,27,ubierać choinkę,ndk,tworzenie i rzemiosło,tworzenie,,,creation,adaptacja kulturowa: drzewko świąteczne
@@ -36,7 +36,7 @@ symbol-id,symbol-en,grammar,category-id,bezokolicznik-pl,aspekt,klasa-semantyczn
 977,"dry_hair_,_to",VerbComplex,75,suszyć włosy,ndk,higiena i ubieranie się,higiena-i-ubieranie,mycie i suszenie,mycie-i-suszenie,body,
 978,"dry_hair_2_,_to",VerbComplex,75,suszyć włosy,ndk,higiena i ubieranie się,higiena-i-ubieranie,mycie i suszenie,mycie-i-suszenie,body,wariant obrazu
 979,"dry_hands_,_to",VerbComplex,75,wycierać ręce,ndk,higiena i ubieranie się,higiena-i-ubieranie,mycie i suszenie,mycie-i-suszenie,body,
-980,"dry_hands_2_,_to",VerbComplex,75,wycierać ręce,ndk,higiena i ubieranie się,higiena-i-ubieranie,mycie i suszenie,mycie-i-suszenie,body,wariant obrazu
+980,"dry_hands_2_,_to",VerbComplex,75,suszyć ręce (suszarką),ndk,higiena i ubieranie się,higiena-i-ubieranie,mycie i suszenie,mycie-i-suszenie,body,obraz: suszarka elektryczna do rąk
 983,"dust_,_to",Verb,20,ścierać kurz,ndk,prace domowe i ogrodowe,prace-domowe-i-ogrodowe,dom i porządki,dom-i-porzadki,contact,
 1028,"email_send_,_to",VerbComplex,36,wysyłać e-mail,ndk,obsługa urządzeń,obsluga-urzadzen,,,contact,
 1036,"enter_,_to",Verb,39,wchodzić,ndk,ruch,ruch,wchodzenie i wychodzenie,wchodzenie-i-wychodzenie,motion,
@@ -105,7 +105,7 @@ symbol-id,symbol-en,grammar,category-id,bezokolicznik-pl,aspekt,klasa-semantyczn
 2579,"sit_at_computer_,_to",VerbComplex,49,siedzieć przy komputerze,ndk,obsługa urządzeń,obsluga-urzadzen,,,contact,
 2580,"sit_at_computer_,_to_2",VerbComplex,49,siedzieć przy komputerze,ndk,obsługa urządzeń,obsluga-urzadzen,,,contact,wariant obrazu; sufiks po numerze (niespójny)
 2588,"ski_,_to",Verb,103,jeździć na nartach,ndk,"gra, sport i wypoczynek",gra-sport-wypoczynek,sport i ćwiczenia,sport-i-cwiczenia,competition,
-2603,"smoke_,_to",Verb,77,palić,ndk,postawa i czynności ciała,postawa-i-czynnosci-ciala,,,consumption,
+2603,"smoke_,_to",Verb,77,palić,ndk,jedzenie i picie,jedzenie-i-picie,,,consumption,
 2657,"spread_,_to",Verb,64,smarować,ndk,gotowanie i obróbka żywności,gotowanie,"mieszanie, nakładanie i dekorowanie",mieszanie-nakladanie-i-dekorowanie,contact,
 2660,"sprinkle_,_to",Verb,64,posypywać,ndk,gotowanie i obróbka żywności,gotowanie,"mieszanie, nakładanie i dekorowanie",mieszanie-nakladanie-i-dekorowanie,contact,
 2664,"squash_,_to",Verb,64,zgniatać,ndk,gotowanie i obróbka żywności,gotowanie,przygotowanie składników,przygotowanie-skladnikow,contact,
@@ -167,7 +167,7 @@ symbol-id,symbol-en,grammar,category-id,bezokolicznik-pl,aspekt,klasa-semantyczn
 3134,"burn_2_,_to",Verb,113,oparzyć się,dk,zmiana stanu,zmiana-stanu,przemiany,przemiany,body,obraz: dłoń nad płomieniem; nie „palić się” o ogniu
 3135,"call_out_,_to",VerbComplex,113,wołać,ndk,komunikacja,komunikacja,,,communication,
 3136,"camp_,_to",Verb,113,biwakować,ndk,"gra, sport i wypoczynek",gra-sport-wypoczynek,na świeżym powietrzu,na-swiezym-powietrzu,motion,
-3137,"carry_,_to",Verb,113,nieść (torbę),ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,chwytanie i trzymanie,chwytanie-i-trzymanie,contact,obraz: dłoń trzymająca torbę za uchwyt
+3137,"carry_,_to",Verb,113,nieść (torbę),ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,chwytanie i trzymanie,chwytanie-i-trzymanie,contact,obraz: dłoń trzymająca torbę za uchwyt; czasownik ruchu (nosić / nieść)
 3138,"carry_books_,_to",VerbComplex,113,nosić książki,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,chwytanie i trzymanie,chwytanie-i-trzymanie,contact,
 3139,"carve_meat_,_to",VerbComplex,113,kroić mięso,ndk,gotowanie i obróbka żywności,gotowanie,przygotowanie składników,przygotowanie-skladnikow,contact,
 3140,"carve_wood_,_to",VerbComplex,113,rzeźbić w drewnie,ndk,tworzenie i rzemiosło,tworzenie,,,creation,
@@ -179,7 +179,7 @@ symbol-id,symbol-en,grammar,category-id,bezokolicznik-pl,aspekt,klasa-semantyczn
 3146,"change_mind_,_to",VerbComplex,113,zmieniać zdanie,ndk,poznanie i percepcja,poznanie-i-percepcja,,,cognition,
 3147,"change_weather_,_to",VerbComplex,113,zmieniać się (o pogodzie),ndk,zmiana stanu,zmiana-stanu,przemiany,przemiany,change,o pogodzie
 3148,"chase_,_to",Verb,113,gonić,ndk,ruch,ruch,"chodzenie, bieg i wspinaczka",chodzenie-bieg-i-wspinaczka,motion,
-3149,"cheat_,_to",Verb,113,ściągać (oszukiwać na sprawdzianie),ndk,relacje społeczne i opieka,relacje-i-opieka,konflikt i przemoc,konflikt-i-przemoc,social,obraz: dwoje dzieci spoglądających na cudzą kartkę
+3149,"cheat_,_to",Verb,113,ściągać (oszukiwać na sprawdzianie),ndk,relacje społeczne i opieka,relacje-i-opieka,życie społeczne,zycie-spoleczne,social,obraz: dwoje dzieci spoglądających na cudzą kartkę
 3150,"chew_,_to",Verb,113,żuć,ndk,jedzenie i picie,jedzenie-i-picie,,,consumption,
 3151,"choke_,_to",Verb,113,dławić się,ndk,postawa i czynności ciała,postawa-i-czynnosci-ciala,,,body,
 3152,"chop_wood_,_to",VerbComplex,113,rąbać drewno,ndk,prace domowe i ogrodowe,prace-domowe-i-ogrodowe,ogród i drewno,ogrod-i-drewno,contact,
@@ -189,7 +189,7 @@ symbol-id,symbol-en,grammar,category-id,bezokolicznik-pl,aspekt,klasa-semantyczn
 3156,"climb_up_,_to",VerbComplex,113,wspinać się,ndk,ruch,ruch,"chodzenie, bieg i wspinaczka",chodzenie-bieg-i-wspinaczka,motion,
 3157,"close_,_to",Verb,113,zamykać,ndk,zmiana stanu,zmiana-stanu,otwieranie i zamykanie,otwieranie-i-zamykanie,contact,
 3158,"close_door_,_to",Verb,113,zamykać drzwi,ndk,zmiana stanu,zmiana-stanu,otwieranie i zamykanie,otwieranie-i-zamykanie,contact,
-3159,"collect_,_to",Verb,113,zbierać,ndk,dawanie i posiadanie,dawanie-i-posiadanie,,,possession,
+3159,"collect_,_to",Verb,113,odbierać (przesyłkę),ndk,dawanie i posiadanie,dawanie-i-posiadanie,,,possession,obraz: osoba odbiera pudełko od drugiej przez ladę
 3160,"come_,_to",Verb,113,przychodzić (gest „chodź tu”),ndk,ruch,ruch,"chodzenie, bieg i wspinaczka",chodzenie-bieg-i-wspinaczka,motion,obraz: dłoń przywołująca
 3161,"communicate_,_to",Verb,113,komunikować się,ndk,komunikacja,komunikacja,,,communication,
 3163,"copy_,_to",Verb,113,kopiować (dokument),ndk,obsługa urządzeń,obsluga-urzadzen,,,contact,obraz: dwa identyczne dokumenty
@@ -219,7 +219,7 @@ symbol-id,symbol-en,grammar,category-id,bezokolicznik-pl,aspekt,klasa-semantyczn
 3187,"drink_2_,_to",Verb,113,pić,ndk,jedzenie i picie,jedzenie-i-picie,,,consumption,wariant obrazu
 3188,"drink_3_,_to",Verb,113,pić,ndk,jedzenie i picie,jedzenie-i-picie,,,consumption,wariant obrazu
 3189,"drip_,_to",Verb,113,kapać,ndk,zmiana stanu,zmiana-stanu,"ciecze, ubytek i opadanie",ciecze-ubytek-i-opadanie,motion,
-3190,"drive_,_to",Verb,113,prowadzić samochód,ndk,ruch,ruch,pojazdy i pływanie,pojazdy-i-plywanie,motion,czasownik ruchu
+3190,"drive_,_to",Verb,113,prowadzić samochód,ndk,ruch,ruch,pojazdy i pływanie,pojazdy-i-plywanie,motion,czasownik ruchu (prowadzić / jeździć)
 3191,"drown_,_to",Verb,113,topić się (o człowieku),ndk,zmiana stanu,zmiana-stanu,"ciecze, ubytek i opadanie",ciecze-ubytek-i-opadanie,motion,obraz: osoba w wodzie z uniesioną ręką
 3192,"eat_,_to",Verb,113,jeść,ndk,jedzenie i picie,jedzenie-i-picie,,,consumption,
 3193,"eat_1_,_to",Verb,113,jeść,ndk,jedzenie i picie,jedzenie-i-picie,,,consumption,wariant obrazu
@@ -273,8 +273,8 @@ symbol-id,symbol-en,grammar,category-id,bezokolicznik-pl,aspekt,klasa-semantyczn
 3243,"hunt_,_to",Verb,113,polować,ndk,"gra, sport i wypoczynek",gra-sport-wypoczynek,na świeżym powietrzu,na-swiezym-powietrzu,competition,
 3244,"insert_,_to",Verb,113,wsuwać (kartkę w szczelinę),ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,przemieszczanie przedmiotów,przemieszczanie-przedmiotow,motion,
 3245,"jog_,_to",Verb,113,biegać rekreacyjnie,ndk,ruch,ruch,"chodzenie, bieg i wspinaczka",chodzenie-bieg-i-wspinaczka,motion,
-3246,"join_,_to",Verb,113,dołączać (do grupy),ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,łączenie i rozdzielanie,laczenie-i-rozdzielanie,contact,obraz: osoba dołącza do dwóch innych
-3247,"join_2_,_to",Verb,113,łączyć się w grupę,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,łączenie i rozdzielanie,laczenie-i-rozdzielanie,contact,obraz: trzy osoby w jednym kręgu
+3246,"join_,_to",Verb,113,dołączać (do grupy),ndk,relacje społeczne i opieka,relacje-i-opieka,życie społeczne,zycie-spoleczne,contact,obraz: osoba dołącza do dwóch innych
+3247,"join_2_,_to",Verb,113,łączyć się w grupę,ndk,relacje społeczne i opieka,relacje-i-opieka,życie społeczne,zycie-spoleczne,contact,obraz: trzy osoby w jednym kręgu
 3248,join_3,Verb,113,łączyć (elementy konstrukcji),ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,łączenie i rozdzielanie,laczenie-i-rozdzielanie,contact,"obraz: złącze narożne skrzyni; brak sufiksu _,_to w nazwie pliku"
 3249,"jump_,_to",Verb,113,skakać,ndk,ruch,ruch,skoki i obroty,skoki-i-obroty,motion,
 3250,"jump_2_,_to",Verb,113,skakać (z wysokości),ndk,ruch,ruch,skoki i obroty,skoki-i-obroty,motion,obraz: postać skacząca ze skosu
@@ -344,7 +344,7 @@ symbol-id,symbol-en,grammar,category-id,bezokolicznik-pl,aspekt,klasa-semantyczn
 3314,"receive_,_to",Verb,113,otrzymywać,ndk,dawanie i posiadanie,dawanie-i-posiadanie,,,possession,
 3315,"relax_,_to",Verb,113,relaksować się,ndk,odpoczynek i stany,odpoczynek-i-stany,,,body,
 3316,"relax_2_,_to",Verb,113,relaksować się,ndk,odpoczynek i stany,odpoczynek-i-stany,,,body,wariant obrazu
-3317,"remove_,_to",Verb,113,usuwać,ndk,zmiana stanu,zmiana-stanu,"ciecze, ubytek i opadanie",ciecze-ubytek-i-opadanie,contact,
+3317,"remove_,_to",Verb,113,usuwać,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,przemieszczanie przedmiotów,przemieszczanie-przedmiotow,contact,
 3318,"rest_,_to",Verb,113,odpoczywać,ndk,odpoczynek i stany,odpoczynek-i-stany,,,body,
 3319,"return_,_to",Verb,113,wracać,ndk,ruch,ruch,"chodzenie, bieg i wspinaczka",chodzenie-bieg-i-wspinaczka,motion,obraz: strzałka powrotu ↵
 3320,"return_book_,_to",VerbComplex,113,oddawać książkę,ndk,dawanie i posiadanie,dawanie-i-posiadanie,,,possession,
@@ -367,7 +367,7 @@ symbol-id,symbol-en,grammar,category-id,bezokolicznik-pl,aspekt,klasa-semantyczn
 3337,"shake_,_to",Verb,113,trząść się,ndk,postawa i czynności ciała,postawa-i-czynnosci-ciala,,,body,"obraz: postać z liniami drgań, bez przedmiotu; nie potrząsanie"
 3338,"shake_hands_,_to",VerbComplex,113,podawać rękę,ndk,relacje społeczne i opieka,relacje-i-opieka,kontakt fizyczny i gesty,kontakt-fizyczny-i-gesty,contact,
 3339,"shake_something_,_to",VerbComplex,113,potrząsać czymś,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,uderzanie i dotykanie,uderzanie-i-dotykanie,contact,
-3340,"share_,_to",Verb,113,dzielić się,ndk,relacje społeczne i opieka,relacje-i-opieka,życie społeczne,zycie-spoleczne,social,obraz: grupa kropek rozdzielana na dwie części
+3340,"share_,_to",Verb,113,dzielić się,ndk,relacje społeczne i opieka,relacje-i-opieka,życie społeczne,zycie-spoleczne,social,obraz: grupa kropek rozdzielana na dwie części; alternatywnie: dzielić (na części)
 3341,"sharpen_,_to",Verb,113,ostrzyć,ndk,tworzenie i rzemiosło,tworzenie,,,creation,
 3342,"shoot_,_to",Verb,113,strzelać (z broni),ndk,"gra, sport i wypoczynek",gra-sport-wypoczynek,sport i ćwiczenia,sport-i-cwiczenia,competition,obraz: strzelec z fuzją
 3343,"shout_,_to",Verb,113,krzyczeć,ndk,komunikacja,komunikacja,,,communication,
@@ -429,7 +429,7 @@ symbol-id,symbol-en,grammar,category-id,bezokolicznik-pl,aspekt,klasa-semantyczn
 3399,"touch_,_to",Verb,113,dotykać,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,uderzanie i dotykanie,uderzanie-i-dotykanie,contact,
 3400,"trace_,_to",Verb,113,obrysowywać,ndk,tworzenie i rzemiosło,tworzenie,,,creation,
 3401,"transport_car_,_to",Verb,113,przewozić samochód (lawetą),ndk,ruch,ruch,pojazdy i pływanie,pojazdy-i-plywanie,motion,obraz: laweta z samochodem
-3402,"trim_,_to",Verb,113,przycinać (roślinę),ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,łączenie i rozdzielanie,laczenie-i-rozdzielanie,contact,obraz: sekator tnie liście
+3402,"trim_,_to",Verb,113,przycinać (roślinę),ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,łączenie i rozdzielanie,laczenie-i-rozdzielanie,contact,obraz: nożyce do żywopłotu tną liście
 3403,"trim_hedge_,_to",VerbComplex,113,przycinać żywopłot,ndk,prace domowe i ogrodowe,prace-domowe-i-ogrodowe,ogród i drewno,ogrod-i-drewno,contact,
 3404,"turn_,_to",Verb,113,obracać się,ndk,ruch,ruch,skoki i obroty,skoki-i-obroty,motion,obraz: postać obracająca się
 3405,"turn_down_light_,_to",VerbComplex,113,przyciemniać światło,ndk,obsługa urządzeń,obsluga-urzadzen,,,contact,obraz: pokrętło i lampa
@@ -449,10 +449,10 @@ symbol-id,symbol-en,grammar,category-id,bezokolicznik-pl,aspekt,klasa-semantyczn
 3420,"walk_downstairs_,_to",VerbComplex,113,schodzić po schodach,ndk,ruch,ruch,"chodzenie, bieg i wspinaczka",chodzenie-bieg-i-wspinaczka,motion,
 3421,"walk_upstairs_,_to",VerbComplex,113,wchodzić po schodach,ndk,ruch,ruch,"chodzenie, bieg i wspinaczka",chodzenie-bieg-i-wspinaczka,motion,
 3422,"walk_up_to_,_to",VerbComplex,113,podchodzić,ndk,ruch,ruch,"chodzenie, bieg i wspinaczka",chodzenie-bieg-i-wspinaczka,motion,
-3423,"want_,_to",Verb,113,chcieć,ndk,odpoczynek i stany,odpoczynek-i-stany,,,emotion,
+3423,"want_,_to",Verb,113,chcieć,ndk,poznanie i percepcja,poznanie-i-percepcja,,,emotion,
 3424,"watch_,_to",Verb,113,oglądać,ndk,poznanie i percepcja,poznanie-i-percepcja,,,perception,
 3425,"wear_helmet_,_to",VerbComplex,113,nosić kask,ndk,higiena i ubieranie się,higiena-i-ubieranie,ubieranie i rozbieranie,ubieranie-i-rozbieranie,body,
-3426,"weigh_food_,_to",VerbComplex,113,ważyć jedzenie,ndk,gotowanie i obróbka żywności,gotowanie,przygotowanie składników,przygotowanie-skladnikow,contact,
+3426,"weigh_food_,_to",VerbComplex,113,ważyć jedzenie,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,pomiar,pomiar,contact,
 3427,"weigh_person_,_to",VerbComplex,113,ważyć osobę,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,pomiar,pomiar,contact,
 3428,"whisper_,_to",Verb,113,szeptać,ndk,komunikacja,komunikacja,,,communication,
 3429,"wiggle_,_to",Verb,113,poruszać palcem,ndk,postawa i czynności ciała,postawa-i-czynnosci-ciala,,,body,obraz: uniesiony palec z liniami ruchu
