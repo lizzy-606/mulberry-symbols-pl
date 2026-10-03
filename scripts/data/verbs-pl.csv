@@ -205,7 +205,7 @@ symbol-id,symbol-en,grammar,category-id,bezokolicznik-pl,aspekt,klasa-semantyczn
 3173,"dance_2_,_to",Verb,113,tańczyć (taniec towarzyski),ndk,"gra, sport i wypoczynek",gra-sport-wypoczynek,taniec i śpiew,taniec-i-spiew,creation,obraz: para w stroju balowym
 3174,"dance_3_,_to",Verb,113,tańczyć w parze,ndk,"gra, sport i wypoczynek",gra-sport-wypoczynek,taniec i śpiew,taniec-i-spiew,creation,obraz: para trzymająca się za ręce
 3175,"daydream_,_to",Verb,113,marzyć,ndk,poznanie i percepcja,poznanie-i-percepcja,,,cognition,
-3176,"decorate_,_to",Verb,113,odnawiać (malować ściany wałkiem),ndk,tworzenie i rzemiosło,tworzenie,,,creation,obraz: malowanie ściany wałkiem; brytyjskie „decorate” = remont
+3176,"decorate_,_to",Verb,113,dekorować (malować ścianę wałkiem),ndk,tworzenie i rzemiosło,tworzenie,,,creation,"obraz: malowanie ściany wałkiem; w brytyjskim angielskim „decorate” obejmuje remont, ale polski odpowiednik zachowano jako „dekorować” (decyzja Elki)"
 3177,"deliver_,_to",Verb,113,dostarczać,ndk,dawanie i posiadanie,dawanie-i-posiadanie,,,possession,
 3178,"deliver_2_,_to",Verb,113,dostarczać,ndk,dawanie i posiadanie,dawanie-i-posiadanie,,,possession,wariant obrazu
 3179,"dial_,_to",Verb,113,wybierać numer,ndk,obsługa urządzeń,obsluga-urzadzen,,,contact,
@@ -414,8 +414,8 @@ symbol-id,symbol-en,grammar,category-id,bezokolicznik-pl,aspekt,klasa-semantyczn
 3384,"take_picture_,_to",VerbComplex,113,robić zdjęcie,ndk,obsługa urządzeń,obsluga-urzadzen,,,contact,
 3385,"talk_1_,_to",Verb,113,mówić,ndk,komunikacja,komunikacja,,,communication,"obraz: głowa z otwartymi ustami, bez rozmówcy"
 3386,"talk_2_,_to",Verb,113,mówić,ndk,komunikacja,komunikacja,,,communication,"obraz: głowa z dymkiem, bez rozmówcy"
-3387,"talk_3_,_to",Verb,113,rozmawiać,ndk,komunikacja,komunikacja,,,communication,obraz: dwie głowy zwrócone do siebie
-3388,"talk_4_,_to",Verb,113,rozmawiać,ndk,komunikacja,komunikacja,,,communication,obraz: dwie głowy zwrócone do siebie z dymkiem
+3387,"talk_3_,_to",Verb,113,rozmawiać,ndk,komunikacja,komunikacja,,,communication,obraz: dwie głowy zwrócone do siebie; alternatywnie: rozmowa (forma rzeczownikowa)
+3388,"talk_4_,_to",Verb,113,rozmawiać,ndk,komunikacja,komunikacja,,,communication,obraz: dwie głowy zwrócone do siebie z dymkiem; alternatywnie: rozmowa (forma rzeczownikowa)
 3389,"tear_,_to",Verb,113,drzeć,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,łączenie i rozdzielanie,laczenie-i-rozdzielanie,contact,
 3390,"telephone_2_,_to",Verb,113,telefonować,ndk,komunikacja,komunikacja,,,communication,obraz: telefon stacjonarny z kablem
 3391,"telephone_mobile_,_to",VerbComplex,113,dzwonić z komórki,ndk,komunikacja,komunikacja,,,communication,

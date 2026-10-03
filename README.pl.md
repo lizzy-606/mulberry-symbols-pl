@@ -123,7 +123,7 @@ dodatkowo osobny symbol czasownikowy `copy_,_to`.
 - Obejrzano obrazy wszystkich czasowników. Nazwy angielskie bywają wieloznaczne albo mylące, więc obraz
   zmienił znaczenie m.in. w: `hang` (wisieć na drążku, nie wieszać), `shake` (trząść się), `stamp` (tupać),
   `slide` (ślizgać się, nie zjeżdżalnia), `dive` i `dive_2` (skok do wody, nie nurkowanie), `bend` (schylać się),
-  `stretch` (rozciągać przedmiot), `cheat` (ściągać), `decorate` (brytyjskie „remont”), `sign` (migać),
+  `stretch` (rozciągać przedmiot), `cheat` (ściągać), `decorate` (obraz: malowanie ściany; zachowano „dekorować”), `sign` (migać),
   `talk_3` i `talk_4` (rozmawiać), `order_2` (rozkazywać). Przy `sign` interpretacja jest moja i wymaga potwierdzenia
   przez osobę znającą Makaton lub PJM, bo na obrazie nie ma długopisu ani kartki.
 - Pięć czasowników w kategorii źródłowej `People Actions` rozchodzi się po klasach znaczeniowych (ruch, odpoczynek, praca).
