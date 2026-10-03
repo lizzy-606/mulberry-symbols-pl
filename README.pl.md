@@ -70,17 +70,17 @@ Zasady tłumaczenia:
 - Przymiotniki są zapisane w formie podstawowej (mianownik lp. rodzaju męskiego); kolumna `rodzaj-formy-pl`
   mówi, jaką formę zapisano. Tam, gdzie to możliwe, wybrano formę neutralną rodzajowo
   (np. „w związku małżeńskim”, „na emeryturze”). Pary rodzajowe „-y/-a” czy osobne symbole to decyzja otwarta.
-- Zawody (`People Profession`): `_1x` = postać męska, `_2x` = żeńska (sprawdzone wizualnie na kilku zawodach),
-  litery `a`–`d` = odcienie skóry (u taksówkarzy `a`/`b` i `c`/`d` to dwie pary postaci); nazwy mają rodzaj zgodny z postacią. Symbole `care_assistant_*` pokazują
-  wyłącznie postać męską (sprawdzone na obrazach).
+- Zawody (`People Profession`): zwykle `_1x` = postać męska, `_2x` = żeńska; litery `a`–`d` = odcienie skóry
+  (u taksówkarzy `a`/`b` i `c`/`d` to dwie pary postaci). Wyjątek: `care_assistant_*`, gdzie `a` = postać męska, `b` = żeńska,
+  a numer 1–6 koduje odcienie skóry opiekuna i podopiecznego (2 i 4: ikona wózka). Nazwy mają rodzaj zgodny z postacią.
 - Alfabet: litery łacińskie bez polskich znaków diakrytycznych (`ą ć ę ł ń ó ś ź ż` nie występują w źródle).
-- Tłumaczenia powstały z angielskich nazw. Każdy symbol, który miał wątpliwość znaczeniową
-  (wszystkie dawniej oznaczone flagą V), obejrzano na obrazie i poprawiono; ponadto obejrzano obrazy wszystkich
-  464 czasowników. Pozostałych symboli (zwykłe przedmioty, zwierzęta, ludzie) nie oglądano pojedynczo: tłumaczenie
-  wynika z nazwy i tagów. Całość nadal wymaga przeglądu merytorycznego przez osobę znającą materiał.
+- Tłumaczenia powstały z angielskich nazw. Obrazy wszystkich 3436 symboli zostały obejrzane
+  i porównane z tłumaczeniem: czasowniki i symbole dawniej oznaczone flagą V przeze mnie, resztę (2815) w osobnym
+  przeglądzie przez niezależnych recenzentów (modele AI), z weryfikacją najpoważniejszych zarzutów przeze mnie.
+  Wątpliwości o niskiej pewności zostawiono bez zmian. Całość nadal wymaga przeglądu merytorycznego przez osobę znającą materiał.
   Gdy o znaczeniu zdecydował obraz, w `uwagi` jest wpis zaczynający się od „obraz:”.
 
-Flagi w kolumnie `flaga` (można łączyć): `K` treść specyficzna kulturowo (UK) lub idiom (111); `B` nazwa handlowa (21); `E` literówka lub błąd w źródle (14);
+Flagi w kolumnie `flaga` (można łączyć): `K` treść specyficzna kulturowo (UK) lub idiom (112); `B` nazwa handlowa (21); `E` literówka lub błąd w źródle (15);
 `N` nie-państwo: terytorium, region, organizacja (90); `P` status sporny lub niepowszechnie uznawany (14);
 `M` czasownik ruchu (7); `G` gramatyka w źródle niespójna z nazwą (3); `R` oznaczone w źródle jako `rated=1` (6).
 
