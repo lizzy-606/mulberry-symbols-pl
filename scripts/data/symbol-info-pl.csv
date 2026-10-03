@@ -2070,7 +2070,7 @@ symbol-id,symbol-en,symbol-pl,domena-pl,podkategoria-pl,czesc-mowy-zrodlo,czesc-
 2069,office_block,biurowiec,Budynki i dom,Biuro i fabryka,Noun,noun,rzeczownik,,,,,,,,,,
 2070,old_object,stary przedmiot,Określenia,Stan,Noun,noun phrase,wyrażenie rzeczownikowe,,,,,,,,,,
 2071,old_person_1,starsza osoba,Ludzie,Cechy i opis osób,Noun,noun phrase,wyrażenie rzeczownikowe,,,1,,,,,,,
-2072,old_person_2,staruszek,Ludzie,Cechy i opis osób,Noun,noun phrase,wyrażenie rzeczownikowe,,,2,,,,,obraz: twarz starszego mężczyzny (uwaga Elki),,
+2072,old_person_2,staruszek,Ludzie,Cechy i opis osób,Noun,noun,rzeczownik,,,2,,,,,obraz: twarz starszego mężczyzny (uwaga Elki),,
 2073,old_person_3,starsza osoba,Ludzie,Cechy i opis osób,Noun,noun phrase,wyrażenie rzeczownikowe,,,3,,,,,,,
 2074,olive_oil,oliwa z oliwek,Jedzenie,Składniki,Noun,noun,rzeczownik,,,,,,,,,,
 2075,olives,oliwki,Jedzenie,Warzywa i sałatki,Noun,noun,rzeczownik,,,,,,,,,,
