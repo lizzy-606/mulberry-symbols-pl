@@ -1,4 +1,4 @@
-category-id,category-en,domena-pl,podkategoria-pl,sciezka,uwagi
+category-id,category-en,domain-pl,subcategory-pl,path,notes
 1,Alphabet,Alfabet,,alfabet,
 2,Animal Activity Feeding,Zwierzęta,Karmienie zwierząt,zwierzeta/karmienie,
 3,Animal Activity Grooming,Zwierzęta,Pielęgnacja zwierząt,zwierzeta/pielegnacja,
@@ -97,7 +97,7 @@ category-id,category-en,domena-pl,podkategoria-pl,sciezka,uwagi
 96,Question,Pytania,,pytania,
 97,Religion Festival,Religia,Święta,religia/swieta,"wyłącznie treść chrześcijańska (tag Christian), bez oznaczeń wyznaniowych w nazwach; tradycje angielskie: Harvest_Festival, Shrove_Tuesday_1, Boxing_Day"
 98,Religion General,Religia,Ogólne,religia/ogolne,"wyłącznie treść chrześcijańska (tag Christian), bez oznaczeń wyznaniowych w nazwach"
-99,Religion Person,Religia,Postacie,religia/postacie,"wyłącznie treść chrześcijańska; Puritans to jedyny symbol wprost wyznaniowy (protestantyzm angielski); carol_singer: tradycja angielska"
+99,Religion Person,Religia,Postacie,religia/postacie,wyłącznie treść chrześcijańska; Puritans to jedyny symbol wprost wyznaniowy (protestantyzm angielski); carol_singer: tradycja angielska
 100,Science,Nauka,Ogólne,nauka/ogolne,
 101,Science Astronomy,Nauka,Astronomia,nauka/astronomia,
 102,Science Eco,Nauka,Ekologia,nauka/ekologia,
