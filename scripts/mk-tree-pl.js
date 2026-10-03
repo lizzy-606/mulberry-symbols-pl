@@ -34,6 +34,51 @@ const readCsv = (file) =>
   });
 
 const symbols = readCsv('symbol-info.csv');
+// Tryb --verbs: czasowniki ułożone według klas semantycznych (verbs-pl.csv).
+if (flag('--verbs')) {
+  const verbOut = path.resolve(ROOT, option('--out', 'czasowniki-wg-znaczenia'));
+  const verbs = readCsv('verbs-pl.csv');
+  const verbErrors = [];
+  const bySymbol = new Map(symbols.map((s) => [s['symbol-en'], s]));
+  const verbSeen = new Set();
+  const verbPlan = [];
+  for (const v of verbs) {
+    const name = v['symbol-en'];
+    if (!bySymbol.has(name)) verbErrors.push(`symbol spoza symbol-info.csv: ${name}`);
+    if (verbSeen.has(name)) verbErrors.push(`duplikat w verbs-pl.csv: ${name}`);
+    verbSeen.add(name);
+    const src = path.join(ROOT, 'EN', `${name}.svg`);
+    if (!fs.existsSync(src)) verbErrors.push(`brak pliku: EN/${name}.svg`);
+    verbPlan.push({ src, dest: path.join(verbOut, v['klasa-sciezka'], `${name}.svg`) });
+  }
+  // Każdy czasownik wg źródła (gramatyka lub sufiks _,_to) musi mieć wiersz.
+  for (const s of symbols) {
+    const verbLike = ['Verb', 'VerbComplex'].includes(s.grammar) || /_,_to(_\d+)?$/.test(s['symbol-en']);
+    if (verbLike && !verbSeen.has(s['symbol-en'])) verbErrors.push(`czasownik bez wiersza: ${s['symbol-en']}`);
+  }
+  if (verbErrors.length) {
+    console.error(`BŁĘDY (${verbErrors.length}):`);
+    verbErrors.slice(0, 50).forEach((e) => console.error('  - ' + e));
+    process.exit(1);
+  }
+  const perClass = new Map();
+  for (const v of verbs) perClass.set(v['klasa-semantyczna'], (perClass.get(v['klasa-semantyczna']) || 0) + 1);
+  console.log(`Czasowników: ${verbPlan.length} | klas semantycznych: ${perClass.size}`);
+  [...perClass.entries()].sort((a, b) => b[1] - a[1]).forEach(([k, n]) => console.log(`  ${String(n).padStart(4)}  ${k}`));
+  if (DRY) {
+    console.log('Tryb --dry-run: walidacja przeszła, nic nie zapisano.');
+    process.exit(0);
+  }
+  for (const { src, dest } of verbPlan) {
+    fs.mkdirSync(path.dirname(dest), { recursive: true });
+    if (fs.existsSync(dest)) fs.rmSync(dest);
+    if (LINK) fs.symlinkSync(path.relative(path.dirname(dest), src), dest);
+    else fs.copyFileSync(src, dest);
+  }
+  console.log(`Zapisano ${verbPlan.length} plików w ${path.relative(process.cwd(), verbOut) || '.'} (${LINK ? 'dowiązania' : 'kopie'}).`);
+  process.exit(0);
+}
+
 const categories = readCsv('categories-pl.csv');
 
 const byId = new Map(categories.map((c) => [c['category-id'], c]));

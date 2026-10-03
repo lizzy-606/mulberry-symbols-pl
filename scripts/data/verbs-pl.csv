@@ -1,0 +1,465 @@
+symbol-id,symbol-en,grammar,category-id,bezokolicznik-pl,aspekt,klasa-semantyczna,klasa-sciezka,uwagi
+55,"armwrestle_,_to",Verb,80,siłować się na rękę,ndk,"gra, sport i wypoczynek",gra-sport-wypoczynek,
+96,"bake_,_to",Verb,64,piec,ndk,gotowanie i obróbka żywności,gotowanie,
+116,"barbeque_,_to",Verb,64,grillować,ndk,gotowanie i obróbka żywności,gotowanie,
+130,"bath_animal_,_to",VerbComplex,3,kąpać zwierzę,ndk,relacje społeczne i opieka,relacje-i-opieka,
+132,"bathe_,_to",Verb,75,kąpać się,ndk,higiena i ubieranie się,higiena-i-ubieranie,
+198,"bless_,_to",Verb,98,błogosławić,ndk,relacje społeczne i opieka,relacje-i-opieka,
+259,"break_,_to",Verb,43,łamać,ndk,zmiana stanu,zmiana-stanu,znaczenie do potwierdzenia na obrazie (łamać / psuć / tłuc)
+261,"break_egg_,_to",VerbComplex,64,rozbijać jajko,ndk,gotowanie i obróbka żywności,gotowanie,
+287,"brush_animal_,_to",VerbComplex,3,szczotkować zwierzę,ndk,relacje społeczne i opieka,relacje-i-opieka,
+288,"brush_hair_,_to",VerbComplex,75,szczotkować włosy,ndk,higiena i ubieranie się,higiena-i-ubieranie,
+289,"brush_teeth_,_to",VerbComplex,75,myć zęby,ndk,higiena i ubieranie się,higiena-i-ubieranie,"idiom polski: myć, nie szczotkować"
+410,"celebrate_2_,_to",Verb,27,świętować,ndk,relacje społeczne i opieka,relacje-i-opieka,wariant obrazu
+411,"celebrate_3_,_to",Verb,27,świętować,ndk,relacje społeczne i opieka,relacje-i-opieka,wariant obrazu
+434,"change_nappy_,_to",VerbComplex,75,przewijać dziecko,ndk,higiena i ubieranie się,higiena-i-ubieranie,dosłownie: zmieniać pieluchę
+435,"change_tv_channel_,_to",VerbComplex,53,zmieniać kanał,ndk,obsługa urządzeń,obsluga-urzadzen,
+487,"chop_,_to",Verb,64,siekać,ndk,gotowanie i obróbka żywności,gotowanie,
+514,"clean_shoes_,_to",VerbComplex,20,czyścić buty,ndk,prace domowe i ogrodowe,prace-domowe-i-ogrodowe,
+515,"clean_window_,_to",VerbComplex,20,myć okno,ndk,prace domowe i ogrodowe,prace-domowe-i-ogrodowe,
+525,"clip_nails_,_to",VerbComplex,75,obcinać paznokcie,ndk,higiena i ubieranie się,higiena-i-ubieranie,
+561,"comb_animal_,_to",VerbComplex,3,czesać zwierzę,ndk,relacje społeczne i opieka,relacje-i-opieka,
+580,"computer_folder_open_,_to",VerbComplex,36,otwierać folder,ndk,obsługa urządzeń,obsluga-urzadzen,
+595,"cook_,_to",Verb,64,gotować,ndk,gotowanie i obróbka żywności,gotowanie,
+805,"cover_food_,_to",VerbComplex,64,przykrywać jedzenie,ndk,gotowanie i obróbka żywności,gotowanie,
+838,"crush_,_to",Verb,64,miażdżyć,ndk,gotowanie i obróbka żywności,gotowanie,
+839,"crush_garlic_,_to",VerbComplex,64,miażdżyć czosnek,ndk,gotowanie i obróbka żywności,gotowanie,
+853,"cycle_,_to",Verb,103,jeździć na rowerze,ndk,ruch,ruch,czasownik ruchu (jeździć / jechać)
+870,"decorate_cake_,_to",VerbComplex,64,dekorować ciasto,ndk,gotowanie i obróbka żywności,gotowanie,
+871,"decorate_tree_,_to",VerbComplex,27,ubierać choinkę,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,adaptacja kulturowa: drzewko świąteczne
+895,"dice_,_to",Verb,64,kroić w kostkę,ndk,gotowanie i obróbka żywności,gotowanie,
+908,"dip_food_,_to",VerbComplex,64,maczać jedzenie,ndk,gotowanie i obróbka żywności,gotowanie,
+921,"dive_2_,_to",Verb,103,nurkować,ndk,"gra, sport i wypoczynek",gra-sport-wypoczynek,wariant obrazu; sprawdzić: nurkowanie czy skok do wody
+956,"dribble_football_,_to",Verb,103,prowadzić piłkę,ndk,"gra, sport i wypoczynek",gra-sport-wypoczynek,
+960,"drink_,_to",Verb,45,pić,ndk,jedzenie i picie,jedzenie-i-picie,
+976,"dry_face_,_to",VerbComplex,75,wycierać twarz,ndk,higiena i ubieranie się,higiena-i-ubieranie,
+977,"dry_hair_,_to",VerbComplex,75,suszyć włosy,ndk,higiena i ubieranie się,higiena-i-ubieranie,
+978,"dry_hair_2_,_to",VerbComplex,75,suszyć włosy,ndk,higiena i ubieranie się,higiena-i-ubieranie,wariant obrazu
+979,"dry_hands_,_to",VerbComplex,75,wycierać ręce,ndk,higiena i ubieranie się,higiena-i-ubieranie,
+980,"dry_hands_2_,_to",VerbComplex,75,wycierać ręce,ndk,higiena i ubieranie się,higiena-i-ubieranie,wariant obrazu
+983,"dust_,_to",Verb,20,ścierać kurz,ndk,prace domowe i ogrodowe,prace-domowe-i-ogrodowe,
+1028,"email_send_,_to",VerbComplex,36,wysyłać e-mail,ndk,obsługa urządzeń,obsluga-urzadzen,
+1036,"enter_,_to",Verb,39,wchodzić,ndk,ruch,ruch,
+1037,"enter_door_,_to",VerbComplex,89,wchodzić przez drzwi,ndk,ruch,ruch,
+1044,"exercise_,_to",Verb,103,ćwiczyć,ndk,"gra, sport i wypoczynek",gra-sport-wypoczynek,
+1045,"exit_,_to",Verb,39,wychodzić,ndk,ruch,ruch,
+1046,"exit_door_,_to",VerbComplex,89,wychodzić przez drzwi,ndk,ruch,ruch,
+1088,"feed_cat_,_to",VerbComplex,2,karmić kota,ndk,relacje społeczne i opieka,relacje-i-opieka,
+1089,"feed_dog_,_to",VerbComplex,2,karmić psa,ndk,relacje społeczne i opieka,relacje-i-opieka,
+1104,"file_nails_,_to",VerbComplex,75,piłować paznokcie,ndk,higiena i ubieranie się,higiena-i-ubieranie,
+1128,"fish_,_to",Verb,103,łowić ryby,ndk,"gra, sport i wypoczynek",gra-sport-wypoczynek,
+1400,"flip_,_to",Verb,64,obracać na drugą stronę,ndk,gotowanie i obróbka żywności,gotowanie,
+1411,"flush_toilet_,_to",VerbComplex,75,spuszczać wodę w toalecie,ndk,higiena i ubieranie się,higiena-i-ubieranie,
+1414,"fold_clothes_,_to",VerbComplex,20,składać ubrania,ndk,prace domowe i ogrodowe,prace-domowe-i-ogrodowe,
+1495,"fry_,_to",Verb,64,smażyć,ndk,gotowanie i obróbka żywności,gotowanie,
+1517,"get_dressed_,_to",VerbComplex,75,ubierać się,ndk,higiena i ubieranie się,higiena-i-ubieranie,
+1529,"go_through_door_,_to",VerbComplex,39,przechodzić przez drzwi,ndk,ruch,ruch,
+1555,"grate_,_to",Verb,64,trzeć na tarce,ndk,gotowanie i obróbka żywności,gotowanie,
+1559,"gravy_pour_,_to",Noun,113,polewać sosem,ndk,gotowanie i obróbka żywności,gotowanie,w źródle gramatyka Noun mimo nazwy czasownikowej
+1571,"grill_,_to",Verb,64,grillować,ndk,gotowanie i obróbka żywności,gotowanie,
+1641,"hear_,_to",Verb,74,słyszeć,ndk,poznanie i percepcja,poznanie-i-percepcja,
+1646,"heat_,_to",Verb,64,podgrzewać,ndk,gotowanie i obróbka żywności,gotowanie,
+1680,"hoover_,_to",Verb,20,odkurzać,ndk,prace domowe i ogrodowe,prace-domowe-i-ogrodowe,
+1718,"iron_,_to",Verb,20,prasować,ndk,prace domowe i ogrodowe,prace-domowe-i-ogrodowe,
+1769,"kick_ball_1_,_to",VerbComplex,103,kopać piłkę,ndk,"gra, sport i wypoczynek",gra-sport-wypoczynek,wariant obrazu
+1770,"kick_ball_2_,_to",VerbComplex,103,kopać piłkę,ndk,"gra, sport i wypoczynek",gra-sport-wypoczynek,wariant obrazu
+1856,"look_in_mirror_,_to",VerbComplex,75,przeglądać się w lustrze,ndk,higiena i ubieranie się,higiena-i-ubieranie,
+1882,"make_the_bed_,_to",VerbComplex,20,ścielić łóżko,ndk,prace domowe i ogrodowe,prace-domowe-i-ogrodowe,
+1898,"mash_,_to",Verb,64,rozgniatać,ndk,gotowanie i obróbka żywności,gotowanie,
+1899,"mash_potato_,_to",Noun,64,ugniatać ziemniaki,ndk,gotowanie i obróbka żywności,gotowanie,w źródle gramatyka Noun mimo nazwy czasownikowej
+1920,"melt_,_to",Verb,64,roztapiać,ndk,gotowanie i obróbka żywności,gotowanie,
+2092,"open_tin_,_to",VerbComplex,64,otwierać puszkę,ndk,gotowanie i obróbka żywności,gotowanie,
+2173,"peel_,_to",Verb,64,obierać,ndk,gotowanie i obróbka żywności,gotowanie,
+2193,"perm_,_to",Verb,75,robić trwałą,ndk,higiena i ubieranie się,higiena-i-ubieranie,
+2270,"point_,_to",Verb,39,wskazywać,ndk,komunikacja,komunikacja,
+2278,"polish_nails_,_to",VerbComplex,75,malować paznokcie,ndk,higiena i ubieranie się,higiena-i-ubieranie,
+2282,"pop_champagne_cork_,_to",VerbComplex,45,otwierać szampana,ndk,jedzenie i picie,jedzenie-i-picie,
+2305,"pour_cake_mixture_,_to",Noun,71,wlewać ciasto,ndk,gotowanie i obróbka żywności,gotowanie,w źródle gramatyka Noun mimo nazwy czasownikowej
+2306,"pour_custard_,_to",Verb,71,polewać kremem,ndk,gotowanie i obróbka żywności,gotowanie,"custard: krem angielski, realia brytyjskie"
+2310,"pray_,_to",Verb,98,modlić się,ndk,relacje społeczne i opieka,relacje-i-opieka,
+2335,"put_in_bin_,_to",VerbComplex,20,wrzucać do kosza,ndk,prace domowe i ogrodowe,prace-domowe-i-ogrodowe,
+2336,"put_on_cap_,_to",VerbComplex,75,zakładać czapkę,ndk,higiena i ubieranie się,higiena-i-ubieranie,
+2337,"put_on_coat_,_to",VerbComplex,75,zakładać płaszcz,ndk,higiena i ubieranie się,higiena-i-ubieranie,
+2338,"put_out_rubbish_,_to",VerbComplex,20,wystawiać śmieci,ndk,prace domowe i ogrodowe,prace-domowe-i-ogrodowe,
+2373,"receive_email_,_to",VerbComplex,36,odbierać e-mail,ndk,obsługa urządzeń,obsluga-urzadzen,
+2380,"refridgerate_,_to",Verb,64,wkładać do lodówki,ndk,gotowanie i obróbka żywności,gotowanie,literówka w źródle (refridgerate)
+2387,"relax_3_,_to",Verb,89,relaksować się,ndk,odpoczynek i stany,odpoczynek-i-stany,
+2389,"retire_,_to",Verb,89,przechodzić na emeryturę,ndk,praca,praca,
+2398,"ride_horse_,_to",VerbComplex,103,jeździć konno,ndk,"gra, sport i wypoczynek",gra-sport-wypoczynek,
+2414,"roll_pastry_,_to",VerbComplex,64,wałkować ciasto,ndk,gotowanie i obróbka żywności,gotowanie,
+2428,"run_,_to",Verb,103,biegać,ndk,ruch,ruch,czasownik ruchu (biegać / biec)
+2445,"salt_,_to",Verb,59,solić,ndk,jedzenie i picie,jedzenie-i-picie,
+2491,"scoop_,_to",Verb,64,nabierać łyżką,ndk,gotowanie i obróbka żywności,gotowanie,
+2492,"score_goal_,_to",Verb,103,strzelać gola,ndk,"gra, sport i wypoczynek",gra-sport-wypoczynek,
+2515,"serve_,_to",Verb,64,podawać,ndk,gotowanie i obróbka żywności,gotowanie,
+2517,"set_the_table_,_to",VerbComplex,20,nakrywać do stołu,ndk,prace domowe i ogrodowe,prace-domowe-i-ogrodowe,
+2518,"set_timer_,_to",VerbComplex,64,nastawiać minutnik,ndk,gotowanie i obróbka żywności,gotowanie,
+2528,"shampoo_animal_,_to",VerbComplex,3,myć zwierzę szamponem,ndk,relacje społeczne i opieka,relacje-i-opieka,
+2529,"shampoo_hair_,_to",VerbComplex,75,myć włosy,ndk,higiena i ubieranie się,higiena-i-ubieranie,
+2534,"shave_,_to",Verb,75,golić się,ndk,higiena i ubieranie się,higiena-i-ubieranie,
+2535,"shave_underarm_,_to",VerbComplex,75,golić pachy,ndk,higiena i ubieranie się,higiena-i-ubieranie,
+2536,"shave_with_razor_,_to",VerbComplex,75,golić się maszynką,ndk,higiena i ubieranie się,higiena-i-ubieranie,
+2556,"shower_1_,_to",Verb,75,brać prysznic,ndk,higiena i ubieranie się,higiena-i-ubieranie,wariant obrazu
+2557,"shower_2_,_to",Verb,75,brać prysznic,ndk,higiena i ubieranie się,higiena-i-ubieranie,wariant obrazu
+2566,"sieve_,_to",Verb,64,przesiewać,ndk,gotowanie i obróbka żywności,gotowanie,
+2579,"sit_at_computer_,_to",VerbComplex,49,siedzieć przy komputerze,ndk,obsługa urządzeń,obsluga-urzadzen,
+2580,"sit_at_computer_,_to_2",VerbComplex,49,siedzieć przy komputerze,ndk,obsługa urządzeń,obsluga-urzadzen,wariant obrazu; sufiks po numerze (niespójny)
+2588,"ski_,_to",Verb,103,jeździć na nartach,ndk,"gra, sport i wypoczynek",gra-sport-wypoczynek,
+2603,"smoke_,_to",Verb,77,palić,ndk,postawa i czynności ciała,postawa-i-czynnosci-ciala,
+2657,"spread_,_to",Verb,64,smarować,ndk,gotowanie i obróbka żywności,gotowanie,
+2660,"sprinkle_,_to",Verb,64,posypywać,ndk,gotowanie i obróbka żywności,gotowanie,
+2664,"squash_,_to",Verb,64,zgniatać,ndk,gotowanie i obróbka żywności,gotowanie,
+2665,"squeak_,_to",Verb,7,piszczeć,ndk,postawa i czynności ciała,postawa-i-czynnosci-ciala,
+2674,"staple_,_to",Verb,115,zszywać zszywaczem,ndk,praca,praca,
+2699,"stir_fry_,_to",VerbComplex,64,smażyć w woku,ndk,gotowanie i obróbka żywności,gotowanie,
+2700,"stir_mix_,_to",VerbComplex,64,mieszać,ndk,gotowanie i obróbka żywności,gotowanie,
+2711,"strain_,_to",Verb,64,odcedzać,ndk,gotowanie i obróbka żywności,gotowanie,
+2717,"stroke_,_to",Verb,3,głaskać,ndk,relacje społeczne i opieka,relacje-i-opieka,
+2746,"swim_,_to",Verb,103,pływać,ndk,ruch,ruch,
+2752,"swing_,_to",Verb,82,huśtać się,ndk,"gra, sport i wypoczynek",gra-sport-wypoczynek,
+2759,"switch_on_television_,_to",Verb,53,włączać telewizor,ndk,obsługa urządzeń,obsluga-urzadzen,
+2769,"take_a_work_break_,_to",VerbComplex,89,robić przerwę w pracy,ndk,praca,praca,
+2770,"take_off_cap_,_to",VerbComplex,75,zdejmować czapkę,ndk,higiena i ubieranie się,higiena-i-ubieranie,
+2784,"taste_,_to",Verb,59,próbować jedzenia,ndk,jedzenie i picie,jedzenie-i-picie,
+2818,"text_mobile_message_,_to",VerbComplex,52,pisać SMS,ndk,komunikacja,komunikacja,
+2842,"tidy_up_,_to",VerbComplex,20,sprzątać,ndk,prace domowe i ogrodowe,prace-domowe-i-ogrodowe,
+2844,"tie_2_,_to",Verb,75,wiązać,ndk,higiena i ubieranie się,higiena-i-ubieranie,"wariant obrazu; sprawdzić, co jest wiązane"
+2894,"toss_pancake_,_to",VerbComplex,55,podrzucać naleśnik,ndk,gotowanie i obróbka żywności,gotowanie,
+2909,"trampoline_,_to",Verb,103,skakać na trampolinie,ndk,"gra, sport i wypoczynek",gra-sport-wypoczynek,
+2933,"turn_down_heat_,_to",VerbComplex,64,zmniejszać ogień,ndk,gotowanie i obróbka żywności,gotowanie,
+2934,"turn_off_light_switch_,_to",VerbComplex,50,wyłączać światło,ndk,obsługa urządzeń,obsluga-urzadzen,
+2935,"turn_on_light_switch_,_to",VerbComplex,50,włączać światło,ndk,obsługa urządzeń,obsluga-urzadzen,
+2936,"turn_up_heat_,_to",VerbComplex,64,zwiększać ogień,ndk,gotowanie i obróbka żywności,gotowanie,
+2950,"unbuckle_,_to",Verb,75,odpinać sprzączkę,ndk,higiena i ubieranie się,higiena-i-ubieranie,
+2951,"unbutton_,_to",Verb,75,rozpinać guziki,ndk,higiena i ubieranie się,higiena-i-ubieranie,
+2959,"undress_,_to",Verb,75,rozbierać się,ndk,higiena i ubieranie się,higiena-i-ubieranie,
+2960,"untie_,_to",Verb,75,rozwiązywać,ndk,higiena i ubieranie się,higiena-i-ubieranie,
+2965,"use_computer_,_to",VerbComplex,49,używać komputera,ndk,obsługa urządzeń,obsluga-urzadzen,
+2990,"vomit_,_to",Verb,77,wymiotować,ndk,postawa i czynności ciała,postawa-i-czynnosci-ciala,
+2995,"wag_tail_,_to",VerbComplex,7,merdać ogonem,ndk,postawa i czynności ciała,postawa-i-czynnosci-ciala,
+2996,"wag_tail_2_,_to",VerbComplex,7,merdać ogonem,ndk,postawa i czynności ciała,postawa-i-czynnosci-ciala,wariant obrazu
+2998,"walk_dog_,_to",VerbComplex,3,wyprowadzać psa,ndk,relacje społeczne i opieka,relacje-i-opieka,
+3010,"wash_clothes_,_to",VerbComplex,20,prać ubrania,ndk,prace domowe i ogrodowe,prace-domowe-i-ogrodowe,
+3011,"wash_face_,_to",VerbComplex,75,myć twarz,ndk,higiena i ubieranie się,higiena-i-ubieranie,
+3012,"wash_hands_,_to",VerbComplex,75,myć ręce,ndk,higiena i ubieranie się,higiena-i-ubieranie,
+3013,"wash_up_,_to",VerbComplex,20,zmywać naczynia,ndk,prace domowe i ogrodowe,prace-domowe-i-ogrodowe,
+3014,"wash_vegetables_,_to",VerbComplex,64,myć warzywa,ndk,gotowanie i obróbka żywności,gotowanie,
+3026,"water_plants_,_to",VerbComplex,20,podlewać rośliny,ndk,prace domowe i ogrodowe,prace-domowe-i-ogrodowe,
+3040,"weigh_,_to",Verb,41,ważyć,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3058,"whisk_,_to",Verb,64,ubijać,ndk,gotowanie i obróbka żywności,gotowanie,
+3076,"wipe_table_,_to",VerbComplex,20,wycierać stół,ndk,prace domowe i ogrodowe,prace-domowe-i-ogrodowe,
+3087,"work_,_to",Verb,105,pracować,ndk,praca,praca,
+3093,"wrap_,_to",Verb,27,pakować prezent,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3120,"arrest_,_to",Verb,113,aresztować,ndk,relacje społeczne i opieka,relacje-i-opieka,
+3121,"ask_,_to",Verb,113,pytać,ndk,komunikacja,komunikacja,
+3122,"attract_,_to",Verb,113,przyciągać,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3123,"bend_,_to",Verb,113,zginać,ndk,postawa i czynności ciała,postawa-i-czynnosci-ciala,wariant obrazu; sprawdzić: zginać czy schylać się
+3124,"bend_2_,_to",Verb,113,zginać,ndk,postawa i czynności ciała,postawa-i-czynnosci-ciala,wariant obrazu
+3125,"bite_,_to",Verb,113,gryźć,ndk,postawa i czynności ciała,postawa-i-czynnosci-ciala,
+3126,"blink_,_to",Verb,113,mrugać,ndk,postawa i czynności ciała,postawa-i-czynnosci-ciala,
+3127,"blow_,_to",Verb,113,dmuchać,ndk,postawa i czynności ciała,postawa-i-czynnosci-ciala,
+3128,"blow_kiss_,_to",VerbComplex,113,posyłać buziaka,ndk,relacje społeczne i opieka,relacje-i-opieka,
+3129,"bounce_,_to",Verb,113,podskakiwać,ndk,ruch,ruch,
+3130,"bounce_ball_,_to",VerbComplex,113,odbijać piłkę,ndk,"gra, sport i wypoczynek",gra-sport-wypoczynek,
+3131,"box_,_to",Verb,113,boksować się,ndk,"gra, sport i wypoczynek",gra-sport-wypoczynek,
+3132,"bring_,_to",Verb,113,przynosić,ndk,dawanie i posiadanie,dawanie-i-posiadanie,
+3133,"build_,_to",Verb,113,budować,ndk,tworzenie i rzemiosło,tworzenie,
+3134,"burn_2_,_to",Verb,113,palić się,ndk,zmiana stanu,zmiana-stanu,
+3135,"call_out_,_to",VerbComplex,113,wołać,ndk,komunikacja,komunikacja,
+3136,"camp_,_to",Verb,113,biwakować,ndk,"gra, sport i wypoczynek",gra-sport-wypoczynek,
+3137,"carry_,_to",Verb,113,nosić,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,czasownik ruchu (nosić / nieść)
+3138,"carry_books_,_to",VerbComplex,113,nosić książki,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3139,"carve_meat_,_to",VerbComplex,113,kroić mięso,ndk,gotowanie i obróbka żywności,gotowanie,
+3140,"carve_wood_,_to",VerbComplex,113,rzeźbić w drewnie,ndk,tworzenie i rzemiosło,tworzenie,
+3141,"catch_,_to",Verb,113,łapać,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3142,"catch_2_,_to",Verb,113,łapać,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,wariant obrazu
+3143,"celebrate_1_,_to",Verb,113,świętować,ndk,relacje społeczne i opieka,relacje-i-opieka,wariant obrazu
+3144,"change_,_to",Verb,113,zmieniać,ndk,zmiana stanu,zmiana-stanu,
+3145,"change_clothes_,_to",VerbComplex,113,przebierać się,ndk,higiena i ubieranie się,higiena-i-ubieranie,
+3146,"change_mind_,_to",VerbComplex,113,zmieniać zdanie,ndk,poznanie i percepcja,poznanie-i-percepcja,
+3147,"change_weather_,_to",VerbComplex,113,zmieniać się,ndk,zmiana stanu,zmiana-stanu,o pogodzie
+3148,"chase_,_to",Verb,113,gonić,ndk,ruch,ruch,
+3149,"cheat_,_to",Verb,113,oszukiwać,ndk,relacje społeczne i opieka,relacje-i-opieka,
+3150,"chew_,_to",Verb,113,żuć,ndk,jedzenie i picie,jedzenie-i-picie,
+3151,"choke_,_to",Verb,113,dławić się,ndk,postawa i czynności ciała,postawa-i-czynnosci-ciala,
+3152,"chop_wood_,_to",VerbComplex,113,rąbać drewno,ndk,prace domowe i ogrodowe,prace-domowe-i-ogrodowe,
+3153,"clap_hands_,_to",VerbComplex,113,klaskać,ndk,postawa i czynności ciała,postawa-i-czynnosci-ciala,
+3154,"climb_down_,_to",VerbComplex,113,schodzić w dół,ndk,ruch,ruch,
+3155,"climb_tree_,_to",VerbComplex,113,wspinać się na drzewo,ndk,ruch,ruch,
+3156,"climb_up_,_to",VerbComplex,113,wspinać się,ndk,ruch,ruch,
+3157,"close_,_to",Verb,113,zamykać,ndk,zmiana stanu,zmiana-stanu,
+3158,"close_door_,_to",Verb,113,zamykać drzwi,ndk,zmiana stanu,zmiana-stanu,
+3159,"collect_,_to",Verb,113,zbierać,ndk,dawanie i posiadanie,dawanie-i-posiadanie,
+3160,"come_,_to",Verb,113,przychodzić,ndk,ruch,ruch,
+3161,"communicate_,_to",Verb,113,komunikować się,ndk,komunikacja,komunikacja,
+3163,"copy_,_to",Verb,113,kopiować,ndk,obsługa urządzeń,obsluga-urzadzen,znaczenie do potwierdzenia na obrazie
+3164,"count_,_to",Verb,113,liczyć,ndk,poznanie i percepcja,poznanie-i-percepcja,
+3165,"count_2_,_to",Verb,113,liczyć,ndk,poznanie i percepcja,poznanie-i-percepcja,wariant obrazu
+3166,"crawl_,_to",Verb,113,czołgać się,ndk,ruch,ruch,u niemowląt: raczkować
+3167,"cross_fingers_,_to",VerbComplex,113,krzyżować palce,ndk,postawa i czynności ciała,postawa-i-czynnosci-ciala,gest kulturowy; polski odpowiednik idiomatyczny to trzymać kciuki (inny gest)
+3168,"crouch_,_to",Verb,113,kucać,ndk,postawa i czynności ciała,postawa-i-czynnosci-ciala,
+3169,"crumple_paper_,_to",VerbComplex,113,zgniatać papier,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3170,"cut_,_to",Verb,113,ciąć,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3171,"cut_with_scissors_,_to",VerbComplex,113,ciąć nożyczkami,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3172,"dance_,_to",Verb,113,tańczyć,ndk,"gra, sport i wypoczynek",gra-sport-wypoczynek,
+3173,"dance_2_,_to",Verb,113,tańczyć,ndk,"gra, sport i wypoczynek",gra-sport-wypoczynek,wariant obrazu
+3174,"dance_3_,_to",Verb,113,tańczyć,ndk,"gra, sport i wypoczynek",gra-sport-wypoczynek,wariant obrazu
+3175,"daydream_,_to",Verb,113,marzyć,ndk,poznanie i percepcja,poznanie-i-percepcja,
+3176,"decorate_,_to",Verb,113,dekorować,ndk,tworzenie i rzemiosło,tworzenie,
+3177,"deliver_,_to",Verb,113,dostarczać,ndk,dawanie i posiadanie,dawanie-i-posiadanie,
+3178,"deliver_2_,_to",Verb,113,dostarczać,ndk,dawanie i posiadanie,dawanie-i-posiadanie,wariant obrazu
+3179,"dial_,_to",Verb,113,wybierać numer,ndk,obsługa urządzeń,obsluga-urzadzen,
+3180,"die_,_to",Verb,113,umierać,ndk,odpoczynek i stany,odpoczynek-i-stany,
+3181,"dig_,_to",Verb,113,kopać łopatą,ndk,prace domowe i ogrodowe,prace-domowe-i-ogrodowe,polski homonim z kick: kopać piłkę / kopać dół
+3182,"dig_2_,_to",Verb,113,kopać łopatą,ndk,prace domowe i ogrodowe,prace-domowe-i-ogrodowe,wariant obrazu
+3183,"dive_,_to",Verb,113,nurkować,ndk,"gra, sport i wypoczynek",gra-sport-wypoczynek,
+3184,"download_,_to",Verb,113,pobierać,ndk,obsługa urządzeń,obsluga-urzadzen,
+3185,"draw_,_to",Verb,113,rysować,ndk,tworzenie i rzemiosło,tworzenie,
+3186,"dream_,_to",Verb,113,śnić,ndk,odpoczynek i stany,odpoczynek-i-stany,
+3187,"drink_2_,_to",Verb,113,pić,ndk,jedzenie i picie,jedzenie-i-picie,wariant obrazu
+3188,"drink_3_,_to",Verb,113,pić,ndk,jedzenie i picie,jedzenie-i-picie,wariant obrazu
+3189,"drip_,_to",Verb,113,kapać,ndk,zmiana stanu,zmiana-stanu,
+3190,"drive_,_to",Verb,113,prowadzić samochód,ndk,ruch,ruch,czasownik ruchu
+3191,"drown_,_to",Verb,113,topić się,ndk,zmiana stanu,zmiana-stanu,
+3192,"eat_,_to",Verb,113,jeść,ndk,jedzenie i picie,jedzenie-i-picie,
+3193,"eat_1_,_to",Verb,113,jeść,ndk,jedzenie i picie,jedzenie-i-picie,wariant obrazu
+3194,"eat_2_,_to",Verb,113,jeść,ndk,jedzenie i picie,jedzenie-i-picie,wariant obrazu
+3195,"escape_,_to",Verb,113,uciekać,ndk,ruch,ruch,
+3196,"fall_off_,_to",VerbComplex,113,spadać,ndk,ruch,ruch,
+3197,"fall_over_,_to",VerbComplex,113,przewracać się,ndk,ruch,ruch,
+3198,"fasten_,_to",Verb,113,zapinać,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3199,"feed_someone_,_to",VerbComplex,113,karmić kogoś,ndk,relacje społeczne i opieka,relacje-i-opieka,
+3200,"feed_someone_2_,_to",VerbComplex,113,karmić kogoś,ndk,relacje społeczne i opieka,relacje-i-opieka,wariant obrazu
+3201,"fight_,_to",Verb,113,bić się,ndk,relacje społeczne i opieka,relacje-i-opieka,
+3202,"file_metal_,_to",VerbComplex,113,pilnikować metal,ndk,tworzenie i rzemiosło,tworzenie,
+3203,"file_wood_,_to",VerbComplex,113,pilnikować drewno,ndk,tworzenie i rzemiosło,tworzenie,
+3204,"fill_2_,_to",Verb,113,napełniać,ndk,zmiana stanu,zmiana-stanu,
+3205,"find_,_to",Verb,113,znaleźć,dk,dawanie i posiadanie,dawanie-i-posiadanie,forma dokonana jako naturalna forma cytowania
+3206,"flip_coin_,_to",VerbComplex,113,rzucać monetą,ndk,"gra, sport i wypoczynek",gra-sport-wypoczynek,
+3209,"get_,_to",Verb,113,dostawać,ndk,dawanie i posiadanie,dawanie-i-posiadanie,
+3210,"get_off_bus_,_to",VerbComplex,113,wysiadać z autobusu,ndk,ruch,ruch,
+3211,"get_on_bus_,_to",VerbComplex,113,wsiadać do autobusu,ndk,ruch,ruch,
+3212,"get_out_of_chair_,_to",VerbComplex,113,wstawać z krzesła,ndk,postawa i czynności ciała,postawa-i-czynnosci-ciala,
+3213,"get_up_,_to",VerbComplex,113,wstawać,ndk,postawa i czynności ciała,postawa-i-czynnosci-ciala,
+3214,"get_up_2_,_to",VerbComplex,113,wstawać,ndk,postawa i czynności ciała,postawa-i-czynnosci-ciala,wariant obrazu
+3215,"give_,_to",Verb,113,dawać,ndk,dawanie i posiadanie,dawanie-i-posiadanie,
+3216,"give_up_cake_,_to",VerbComplex,113,rezygnować z ciasta,ndk,jedzenie i picie,jedzenie-i-picie,
+3217,"give_up_foods_,_to",VerbComplex,113,rezygnować z niektórych potraw,ndk,jedzenie i picie,jedzenie-i-picie,
+3218,"go_,_to",Verb,113,iść,ndk,ruch,ruch,czasownik ruchu (iść / chodzić)
+3219,"go_in_,_to",VerbComplex,113,wchodzić,ndk,ruch,ruch,
+3220,"go_outside_,_to",VerbComplex,113,wychodzić na zewnątrz,ndk,ruch,ruch,
+3221,"go_out_2_,_to",VerbComplex,113,wychodzić,ndk,ruch,ruch,wariant obrazu
+3222,"grab_,_to",Verb,113,chwytać,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3223,"grab_1_,_to",Verb,113,chwytać,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,wariant obrazu
+3224,"grow_,_to",Verb,113,rosnąć,ndk,zmiana stanu,zmiana-stanu,
+3225,"grow_2_,_to",Verb,113,rosnąć,ndk,zmiana stanu,zmiana-stanu,wariant obrazu
+3226,"grow_hair_,_to",VerbComplex,113,zapuszczać włosy,ndk,higiena i ubieranie się,higiena-i-ubieranie,
+3227,"grow_hair_2_,_to",VerbComplex,113,zapuszczać włosy,ndk,higiena i ubieranie się,higiena-i-ubieranie,wariant obrazu
+3228,"guess_,_to",Verb,113,zgadywać,ndk,poznanie i percepcja,poznanie-i-percepcja,
+3229,"hang_,_to",Verb,113,wieszać,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3230,"hang_coat_,_to",VerbComplex,113,wieszać płaszcz,ndk,prace domowe i ogrodowe,prace-domowe-i-ogrodowe,
+3231,"hatch_,_to",Verb,113,wykluwać się,ndk,zmiana stanu,zmiana-stanu,
+3232,"help_,_to",Verb,113,pomagać,ndk,relacje społeczne i opieka,relacje-i-opieka,
+3233,"hike_,_to",Verb,113,wędrować,ndk,"gra, sport i wypoczynek",gra-sport-wypoczynek,
+3234,"hike_2_,_to",Verb,113,wędrować,ndk,"gra, sport i wypoczynek",gra-sport-wypoczynek,wariant obrazu
+3235,"hit_,_to",Verb,113,uderzać,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3236,"hit_something_,_to",VerbComplex,113,uderzać w coś,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3237,"hold_,_to",Verb,113,trzymać,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3238,"hold_hands_,_to",VerbComplex,113,trzymać się za ręce,ndk,relacje społeczne i opieka,relacje-i-opieka,
+3239,"hold_sledge_hammer_,_to",VerbComplex,113,trzymać młot,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3240,"hop_,_to",Verb,113,skakać na jednej nodze,ndk,ruch,ruch,
+3241,"hop_2_,_to",Verb,113,skakać na jednej nodze,ndk,ruch,ruch,wariant obrazu
+3242,"hug_,_to",Verb,113,przytulać,ndk,relacje społeczne i opieka,relacje-i-opieka,
+3243,"hunt_,_to",Verb,113,polować,ndk,"gra, sport i wypoczynek",gra-sport-wypoczynek,
+3244,"insert_,_to",Verb,113,wkładać,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3245,"jog_,_to",Verb,113,biegać rekreacyjnie,ndk,ruch,ruch,
+3246,"join_,_to",Verb,113,łączyć,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3247,"join_2_,_to",Verb,113,łączyć,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,wariant obrazu
+3248,join_3,Verb,113,łączyć,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,"wariant obrazu; brak sufiksu _,_to w nazwie pliku"
+3249,"jump_,_to",Verb,113,skakać,ndk,ruch,ruch,
+3250,"jump_2_,_to",Verb,113,skakać,ndk,ruch,ruch,wariant obrazu
+3251,"keep_,_to",Verb,113,zachowywać,ndk,dawanie i posiadanie,dawanie-i-posiadanie,
+3252,"kick_ball_,_to",VerbComplex,113,kopać piłkę,ndk,"gra, sport i wypoczynek",gra-sport-wypoczynek,
+3253,"kick_person_,_to",VerbComplex,113,kopać kogoś,ndk,relacje społeczne i opieka,relacje-i-opieka,
+3254,"kick_swimming_,_to",VerbComplex,113,machać nogami w wodzie,ndk,"gra, sport i wypoczynek",gra-sport-wypoczynek,
+3255,"kill_,_to",Verb,113,zabijać,ndk,relacje społeczne i opieka,relacje-i-opieka,
+3256,"knit_,_to",Verb,113,robić na drutach,ndk,tworzenie i rzemiosło,tworzenie,
+3257,"knock_,_to",Verb,113,pukać,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3258,"knock_down_,_to",VerbComplex,113,przewracać,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3259,"lie_on_back_,_to",VerbComplex,113,leżeć na plecach,ndk,postawa i czynności ciała,postawa-i-czynnosci-ciala,
+3260,"look_,_to",Verb,113,patrzeć,ndk,poznanie i percepcja,poznanie-i-percepcja,
+3261,"make_,_to",Verb,113,robić,ndk,tworzenie i rzemiosło,tworzenie,
+3262,"meet_,_to",Verb,113,spotykać,ndk,relacje społeczne i opieka,relacje-i-opieka,
+3263,"miss_bus_,_to",VerbComplex,113,spóźnić się na autobus,dk,ruch,ruch,forma dokonana jako naturalna forma cytowania
+3264,"move_,_to",Verb,113,poruszać się,ndk,ruch,ruch,
+3265,"nod_,_to",Verb,113,kiwać głową,ndk,postawa i czynności ciała,postawa-i-czynnosci-ciala,
+3266,"open_,_to",Verb,113,otwierać,ndk,zmiana stanu,zmiana-stanu,
+3267,"open_2_,_to",Verb,113,otwierać,ndk,zmiana stanu,zmiana-stanu,wariant obrazu
+3268,"open_door_,_to",VerbComplex,113,otwierać drzwi,ndk,zmiana stanu,zmiana-stanu,
+3269,"open_door_1_,_to",VerbComplex,113,otwierać drzwi,ndk,zmiana stanu,zmiana-stanu,wariant obrazu
+3270,"open_door_2_,_to",VerbComplex,113,otwierać drzwi,ndk,zmiana stanu,zmiana-stanu,wariant obrazu
+3271,"order_1_,_to",Verb,113,zamawiać,ndk,dawanie i posiadanie,dawanie-i-posiadanie,wariant obrazu; sprawdzić: zamawiać czy rozkazywać
+3272,"order_2_,_to",Verb,113,zamawiać,ndk,dawanie i posiadanie,dawanie-i-posiadanie,wariant obrazu; sprawdzić: zamawiać czy rozkazywać
+3273,"pack_suitcase_,_to",VerbComplex,113,pakować walizkę,ndk,prace domowe i ogrodowe,prace-domowe-i-ogrodowe,
+3274,"paint_,_to",Verb,113,malować,ndk,tworzenie i rzemiosło,tworzenie,
+3275,"paint_1_,_to",Verb,113,malować,ndk,tworzenie i rzemiosło,tworzenie,wariant obrazu
+3276,"paint_2_,_to",Verb,113,malować,ndk,tworzenie i rzemiosło,tworzenie,wariant obrazu
+3277,"park_,_to",Verb,113,parkować,ndk,ruch,ruch,
+3278,"pat_dog_,_to",VerbComplex,113,głaskać psa,ndk,relacje społeczne i opieka,relacje-i-opieka,
+3279,"peel_orange_,_to",VerbComplex,113,obierać pomarańczę,ndk,gotowanie i obróbka żywności,gotowanie,
+3280,"pick_,_to",Verb,113,wybierać,ndk,dawanie i posiadanie,dawanie-i-posiadanie,znaczenie do potwierdzenia na obrazie (wybierać / zrywać)
+3281,"pick_up_,_to",VerbComplex,113,podnosić,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3282,"plant_,_to",Verb,113,sadzić,ndk,prace domowe i ogrodowe,prace-domowe-i-ogrodowe,
+3283,"play_,_to",Verb,113,bawić się,ndk,"gra, sport i wypoczynek",gra-sport-wypoczynek,
+3284,"plough_,_to",Verb,113,orać,ndk,prace domowe i ogrodowe,prace-domowe-i-ogrodowe,
+3285,"pluck_,_to",Verb,113,skubać,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,znaczenie do potwierdzenia na obrazie
+3286,"post_letter_,_to",VerbComplex,113,wysyłać list,ndk,komunikacja,komunikacja,
+3287,"pour_,_to",Verb,113,nalewać,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3288,"pray_2_,_to",Verb,113,modlić się,ndk,relacje społeczne i opieka,relacje-i-opieka,wariant obrazu
+3289,"press_button_,_to",VerbComplex,113,naciskać przycisk,ndk,obsługa urządzeń,obsluga-urzadzen,
+3290,"prop_up_,_to",VerbComplex,113,podpierać,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3291,"protect_,_to",Verb,113,chronić,ndk,relacje społeczne i opieka,relacje-i-opieka,
+3292,"pull_,_to",Verb,113,ciągnąć,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3293,"pull_2_,_to",Verb,113,ciągnąć,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,wariant obrazu
+3294,"push_,_to",Verb,113,pchać,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3295,"push_2_,_to",Verb,113,pchać,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,wariant obrazu
+3296,"push_down_,_to",VerbComplex,113,wciskać,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3297,"put_,_to",Verb,113,kłaść,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3298,"put_away_,_to",VerbComplex,113,odkładać na miejsce,ndk,prace domowe i ogrodowe,prace-domowe-i-ogrodowe,
+3299,"put_in_,_to",VerbComplex,113,wkładać,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3300,"put_in_cassette_tape_,_to",VerbComplex,113,wkładać kasetę,ndk,obsługa urządzeń,obsluga-urzadzen,
+3301,"put_in_cd_dvd_,_to",VerbComplex,113,wkładać płytę,ndk,obsługa urządzeń,obsluga-urzadzen,
+3302,"put_in_contact_lens_,_to",VerbComplex,113,zakładać soczewkę kontaktową,ndk,higiena i ubieranie się,higiena-i-ubieranie,
+3303,"put_on_helmet_,_to",VerbComplex,113,zakładać kask,ndk,higiena i ubieranie się,higiena-i-ubieranie,
+3304,"put_on_lid_,_to",VerbComplex,113,zakładać pokrywkę,ndk,gotowanie i obróbka żywności,gotowanie,
+3305,"queue_,_to",Verb,113,stać w kolejce,ndk,relacje społeczne i opieka,relacje-i-opieka,
+3306,"raise_feet_,_to",VerbComplex,113,unosić stopy,ndk,postawa i czynności ciała,postawa-i-czynnosci-ciala,
+3307,"raise_head_,_to",VerbComplex,113,unosić głowę,ndk,postawa i czynności ciała,postawa-i-czynnosci-ciala,
+3308,"rake_2_,_to",Verb,113,grabić,ndk,prace domowe i ogrodowe,prace-domowe-i-ogrodowe,
+3309,"reach_for_,_to",VerbComplex,113,sięgać po coś,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3310,"read_,_to",Verb,113,czytać,ndk,poznanie i percepcja,poznanie-i-percepcja,
+3311,"read_2_,_to",Verb,113,czytać,ndk,poznanie i percepcja,poznanie-i-percepcja,wariant obrazu
+3312,"read_3_,_to",Verb,113,czytać,ndk,poznanie i percepcja,poznanie-i-percepcja,wariant obrazu
+3313,"read_book_,_to",VerbComplex,113,czytać książkę,ndk,poznanie i percepcja,poznanie-i-percepcja,
+3314,"receive_,_to",Verb,113,otrzymywać,ndk,dawanie i posiadanie,dawanie-i-posiadanie,
+3315,"relax_,_to",Verb,113,relaksować się,ndk,odpoczynek i stany,odpoczynek-i-stany,
+3316,"relax_2_,_to",Verb,113,relaksować się,ndk,odpoczynek i stany,odpoczynek-i-stany,wariant obrazu
+3317,"remove_,_to",Verb,113,usuwać,ndk,zmiana stanu,zmiana-stanu,
+3318,"rest_,_to",Verb,113,odpoczywać,ndk,odpoczynek i stany,odpoczynek-i-stany,
+3319,"return_,_to",Verb,113,wracać,ndk,ruch,ruch,znaczenie do potwierdzenia na obrazie (wracać / zwracać)
+3320,"return_book_,_to",VerbComplex,113,oddawać książkę,ndk,dawanie i posiadanie,dawanie-i-posiadanie,
+3321,rewind,Verb,113,przewijać,ndk,obsługa urządzeń,obsluga-urzadzen,"brak sufiksu _,_to w nazwie pliku"
+3322,"ride_car_,_to",VerbComplex,113,jechać samochodem,ndk,ruch,ruch,czasownik ruchu (jechać / jeździć)
+3323,"ring_bell_,_to",VerbComplex,113,dzwonić dzwonkiem,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3324,"ring_doorbell_,_to",VerbComplex,113,dzwonić do drzwi,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3325,"rinse_,_to",Verb,113,płukać,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3326,"rock_chair_,_to",VerbComplex,113,bujać się na krześle,ndk,postawa i czynności ciała,postawa-i-czynnosci-ciala,
+3327,"rollerskate_,_to",Verb,113,jeździć na wrotkach,ndk,"gra, sport i wypoczynek",gra-sport-wypoczynek,
+3328,"roll_dice_,_to",VerbComplex,113,rzucać kostką,ndk,"gra, sport i wypoczynek",gra-sport-wypoczynek,
+3329,"roll_over_,_to",VerbComplex,113,przewracać się na bok,ndk,postawa i czynności ciała,postawa-i-czynnosci-ciala,
+3330,"rub_,_to",Verb,113,pocierać,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3331,"scrub_,_to",Verb,113,szorować,ndk,prace domowe i ogrodowe,prace-domowe-i-ogrodowe,
+3332,"seal_envelope_,_to",VerbComplex,113,zaklejać kopertę,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3333,"separate_,_to",Verb,113,rozdzielać,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3334,"serve_2_,_to",Verb,113,podawać,ndk,dawanie i posiadanie,dawanie-i-posiadanie,wariant obrazu
+3335,"set_table_,_to",VerbComplex,113,nakrywać do stołu,ndk,prace domowe i ogrodowe,prace-domowe-i-ogrodowe,
+3336,"sew_,_to",Verb,113,szyć,ndk,tworzenie i rzemiosło,tworzenie,
+3337,"shake_,_to",Verb,113,potrząsać,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3338,"shake_hands_,_to",VerbComplex,113,podawać rękę,ndk,relacje społeczne i opieka,relacje-i-opieka,
+3339,"shake_something_,_to",VerbComplex,113,potrząsać czymś,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3340,"share_,_to",Verb,113,dzielić się,ndk,relacje społeczne i opieka,relacje-i-opieka,
+3341,"sharpen_,_to",Verb,113,ostrzyć,ndk,tworzenie i rzemiosło,tworzenie,
+3342,"shoot_,_to",Verb,113,strzelać,ndk,"gra, sport i wypoczynek",gra-sport-wypoczynek,
+3343,"shout_,_to",Verb,113,krzyczeć,ndk,komunikacja,komunikacja,
+3344,"show_me_,_to",VerbComplex,113,pokazywać,ndk,komunikacja,komunikacja,w oryginale prośba show me; rozważyć formę pokaż mi
+3345,"sign_,_to",Verb,113,podpisywać,ndk,komunikacja,komunikacja,znaczenie do potwierdzenia na obrazie (podpisywać / migać)
+3346,"sing_,_to",Verb,113,śpiewać,ndk,"gra, sport i wypoczynek",gra-sport-wypoczynek,
+3347,"sink_,_to",Verb,113,tonąć,ndk,zmiana stanu,zmiana-stanu,
+3348,"sink_2_,_to",Verb,113,tonąć,ndk,zmiana stanu,zmiana-stanu,wariant obrazu
+3349,"sit_,_to",Verb,113,siedzieć,ndk,postawa i czynności ciała,postawa-i-czynnosci-ciala,siedzieć / siadać do rozstrzygnięcia
+3350,"sit_2_,_to",Verb,113,siedzieć,ndk,postawa i czynności ciała,postawa-i-czynnosci-ciala,wariant obrazu
+3351,"sit_in_beanbag_,_to",VerbComplex,113,siedzieć w pufie,ndk,postawa i czynności ciała,postawa-i-czynnosci-ciala,
+3352,"sit_on_floor_,_to",VerbComplex,113,siedzieć na podłodze,ndk,postawa i czynności ciała,postawa-i-czynnosci-ciala,
+3353,"skate_,_to",Verb,113,jeździć na łyżwach,ndk,"gra, sport i wypoczynek",gra-sport-wypoczynek,
+3354,"skid_,_to",Verb,113,ślizgać się,ndk,ruch,ruch,
+3355,"skip_,_to",Verb,113,podskakiwać,ndk,ruch,ruch,znaczenie do potwierdzenia na obrazie (podskoki lub skakanka)
+3356,"sleep_female_,_to",VerbComplex,113,spać,ndk,odpoczynek i stany,odpoczynek-i-stany,wariant obrazu: postać kobieca; polski bezokolicznik nie oddaje różnicy
+3357,"sleep_male_,_to",VerbComplex,113,spać,ndk,odpoczynek i stany,odpoczynek-i-stany,wariant obrazu: postać męska; polski bezokolicznik nie oddaje różnicy
+3358,"sleep_on_side_,_to",VerbComplex,113,spać na boku,ndk,odpoczynek i stany,odpoczynek-i-stany,
+3359,"slide_,_to",Verb,113,zjeżdżać,ndk,"gra, sport i wypoczynek",gra-sport-wypoczynek,znaczenie do potwierdzenia na obrazie (zjeżdżać / ślizgać się)
+3360,"slide_backwards_,_to",VerbComplex,113,ślizgać się do tyłu,ndk,ruch,ruch,
+3361,"slide_forwards_,_to",VerbComplex,113,ślizgać się do przodu,ndk,ruch,ruch,
+3362,"smear_,_to",Verb,113,rozsmarowywać,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3363,"smile_,_to",Verb,113,uśmiechać się,ndk,postawa i czynności ciała,postawa-i-czynnosci-ciala,
+3364,"sneak_,_to",Verb,113,skradać się,ndk,ruch,ruch,
+3365,"sort_,_to",Verb,113,sortować,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3366,"spell_,_to",Verb,113,literować,ndk,poznanie i percepcja,poznanie-i-percepcja,
+3367,"spill_,_to",Verb,113,rozlewać,ndk,zmiana stanu,zmiana-stanu,
+3368,"spin_,_to",Verb,113,kręcić się,ndk,ruch,ruch,
+3369,"spray_,_to",Verb,113,spryskiwać,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3370,"squeeze_,_to",Verb,113,ściskać,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3371,"squirt_,_to",Verb,113,pryskać,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3372,"stamp_,_to",Verb,113,stemplować,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,znaczenie do potwierdzenia na obrazie (stemplować / tupać)
+3373,"stand_,_to",Verb,113,stać,ndk,postawa i czynności ciała,postawa-i-czynnosci-ciala,
+3374,"steal_,_to",Verb,113,kraść,ndk,relacje społeczne i opieka,relacje-i-opieka,
+3375,"stir_,_to",Verb,113,mieszać,ndk,gotowanie i obróbka żywności,gotowanie,
+3376,"stretch_,_to",Verb,113,rozciągać się,ndk,postawa i czynności ciała,postawa-i-czynnosci-ciala,
+3377,"stroke_2_,_to",Verb,113,głaskać,ndk,relacje społeczne i opieka,relacje-i-opieka,wariant obrazu
+3378,"study_,_to",Verb,113,uczyć się,ndk,poznanie i percepcja,poznanie-i-percepcja,
+3379,"swim_2_,_to",Verb,113,pływać,ndk,ruch,ruch,wariant obrazu
+3380,"take_,_to",Verb,113,brać,ndk,dawanie i posiadanie,dawanie-i-posiadanie,
+3381,"take_care_of_,_to",VerbComplex,113,opiekować się,ndk,relacje społeczne i opieka,relacje-i-opieka,
+3382,"take_off_lid_,_to",VerbComplex,113,zdejmować pokrywkę,ndk,gotowanie i obróbka żywności,gotowanie,
+3383,"take_out_,_to",VerbComplex,113,wyjmować,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3384,"take_picture_,_to",VerbComplex,113,robić zdjęcie,ndk,obsługa urządzeń,obsluga-urzadzen,
+3385,"talk_1_,_to",Verb,113,mówić,ndk,komunikacja,komunikacja,wariant obrazu (4 warianty); rozróżnić mówienie / rozmawianie po obejrzeniu
+3386,"talk_2_,_to",Verb,113,mówić,ndk,komunikacja,komunikacja,wariant obrazu (4 warianty); rozróżnić mówienie / rozmawianie po obejrzeniu
+3387,"talk_3_,_to",Verb,113,mówić,ndk,komunikacja,komunikacja,wariant obrazu (4 warianty); rozróżnić mówienie / rozmawianie po obejrzeniu
+3388,"talk_4_,_to",Verb,113,mówić,ndk,komunikacja,komunikacja,wariant obrazu (4 warianty); rozróżnić mówienie / rozmawianie po obejrzeniu
+3389,"tear_,_to",Verb,113,drzeć,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3390,"telephone_2_,_to",Verb,113,telefonować,ndk,komunikacja,komunikacja,wariant obrazu
+3391,"telephone_mobile_,_to",VerbComplex,113,dzwonić z komórki,ndk,komunikacja,komunikacja,
+3392,"telephone_mobile_2_,_to",VerbComplex,113,dzwonić z komórki,ndk,komunikacja,komunikacja,wariant obrazu
+3393,"think_,_to",Verb,113,myśleć,ndk,poznanie i percepcja,poznanie-i-percepcja,
+3394,"throw_away_,_to",VerbComplex,113,wyrzucać,ndk,prace domowe i ogrodowe,prace-domowe-i-ogrodowe,
+3395,"tickle_,_to",Verb,113,łaskotać,ndk,relacje społeczne i opieka,relacje-i-opieka,
+3396,"tidy_2_,_to",Verb,113,sprzątać,ndk,prace domowe i ogrodowe,prace-domowe-i-ogrodowe,wariant obrazu
+3397,"tie_,_to",Verb,113,wiązać,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3398,"tighten_,_to",Verb,113,dokręcać,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3399,"touch_,_to",Verb,113,dotykać,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3400,"trace_,_to",Verb,113,obrysowywać,ndk,tworzenie i rzemiosło,tworzenie,
+3401,"transport_car_,_to",Verb,113,przewozić samochodem,ndk,ruch,ruch,
+3402,"trim_,_to",Verb,113,przycinać,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3403,"trim_hedge_,_to",VerbComplex,113,przycinać żywopłot,ndk,prace domowe i ogrodowe,prace-domowe-i-ogrodowe,
+3404,"turn_,_to",Verb,113,obracać,ndk,ruch,ruch,
+3405,"turn_down_light_,_to",VerbComplex,113,przyciemniać światło,ndk,obsługa urządzeń,obsluga-urzadzen,
+3406,"turn_off_,_to",Verb,113,wyłączać,ndk,obsługa urządzeń,obsluga-urzadzen,
+3407,"turn_on_,_to",Verb,113,włączać,ndk,obsługa urządzeń,obsluga-urzadzen,
+3408,"turn_up_light_,_to",VerbComplex,113,rozjaśniać światło,ndk,obsługa urządzeń,obsluga-urzadzen,
+3409,"type_,_to",Verb,113,pisać na klawiaturze,ndk,obsługa urządzeń,obsluga-urzadzen,
+3410,"unbutton_2_,_to",Verb,113,rozpinać guziki,ndk,higiena i ubieranie się,higiena-i-ubieranie,wariant obrazu
+3411,"unlock_,_to",Verb,113,odmykać,ndk,zmiana stanu,zmiana-stanu,
+3413,"visit_,_to",Verb,113,odwiedzać,ndk,relacje społeczne i opieka,relacje-i-opieka,
+3414,"vomit_2_,_to",Verb,113,wymiotować,ndk,postawa i czynności ciała,postawa-i-czynnosci-ciala,wariant obrazu
+3415,"vote_,_to",Verb,113,głosować,ndk,relacje społeczne i opieka,relacje-i-opieka,
+3416,"wait_,_to",Verb,113,czekać,ndk,odpoczynek i stany,odpoczynek-i-stany,
+3417,"wait_table_,_to",VerbComplex,113,obsługiwać gości,ndk,praca,praca,
+3418,"wake_up_,_to",VerbComplex,113,budzić się,ndk,odpoczynek i stany,odpoczynek-i-stany,
+3419,"walk_,_to",Verb,113,chodzić,ndk,ruch,ruch,czasownik ruchu (chodzić / iść)
+3420,"walk_downstairs_,_to",VerbComplex,113,schodzić po schodach,ndk,ruch,ruch,
+3421,"walk_upstairs_,_to",VerbComplex,113,wchodzić po schodach,ndk,ruch,ruch,
+3422,"walk_up_to_,_to",VerbComplex,113,podchodzić,ndk,ruch,ruch,
+3423,"want_,_to",Verb,113,chcieć,ndk,odpoczynek i stany,odpoczynek-i-stany,
+3424,"watch_,_to",Verb,113,oglądać,ndk,poznanie i percepcja,poznanie-i-percepcja,
+3425,"wear_helmet_,_to",VerbComplex,113,nosić kask,ndk,higiena i ubieranie się,higiena-i-ubieranie,
+3426,"weigh_food_,_to",VerbComplex,113,ważyć jedzenie,ndk,gotowanie i obróbka żywności,gotowanie,
+3427,"weigh_person_,_to",VerbComplex,113,ważyć osobę,ndk,manipulowanie przedmiotami,manipulowanie-przedmiotami,
+3428,"whisper_,_to",Verb,113,szeptać,ndk,komunikacja,komunikacja,
+3429,"wiggle_,_to",Verb,113,wiercić się,ndk,postawa i czynności ciała,postawa-i-czynnosci-ciala,znaczenie do potwierdzenia na obrazie
+3430,"work_2_,_to",Verb,113,pracować,ndk,praca,praca,wariant obrazu
+3431,"wrestle_,_to",Verb,113,mocować się,ndk,"gra, sport i wypoczynek",gra-sport-wypoczynek,
+3432,"write_,_to",Verb,113,pisać,ndk,komunikacja,komunikacja,
+3433,"write_cheque_,_to",VerbComplex,113,wypisywać czek,ndk,komunikacja,komunikacja,
+3434,"write_letter_,_to",VerbComplex,113,pisać list,ndk,komunikacja,komunikacja,
+3435,"yawn_,_to",Verb,113,ziewać,ndk,postawa i czynności ciała,postawa-i-czynnosci-ciala,
+3436,"zoom_,_to",Verb,113,przybliżać,ndk,obsługa urządzeń,obsluga-urzadzen,

@@ -34,7 +34,7 @@ category-id,category-en,domena-pl,podkategoria-pl,sciezka,uwagi
 33,Communication Aid,Komunikacja,Sprzęt i pomoce AAC,komunikacja/sprzet-aac,"obrazy sprzętu (przełączniki, komunikatory, tablice), a nie symbole dla użytkownika"
 34,Communication Conversation,Komunikacja,Rozmowa,komunikacja/rozmowa,"dwa symbole (hello, need_toilet)"
 35,Communication Signs,Komunikacja,Znaki i oznaczenia,komunikacja/znaki,dwa symbole
-36,Computer Icon,Komputer,Ikony i polecenia,komputer/ikony,ikony interfejsu; sprzęt komputerowy jest w kat. 49
+36,Computer Icon,Komputer,Interfejs i polecenia,komputer/interfejs,"ikony interfejsu i polecenia; granica z kat. 49 nieostra (klawisze i mysz 1 są tu, mysz 2 i klawiatura tam)"
 37,Country Flags,Kraje,Flagi,kraje/flagi,"obejmuje flagi niepaństwowe (np. Alaska, African Union, Aboriginal Peoples)"
 38,Country Maps,Kraje,Mapy,kraje/mapy,
 39,Descriptive Direction,Określenia,Kierunek,okreslenia/kierunek,
@@ -47,7 +47,7 @@ category-id,category-en,domena-pl,podkategoria-pl,sciezka,uwagi
 46,Drink Containers and measures,Napoje,Naczynia i miary,napoje/naczynia-i-miary,
 47,Drink Description,Napoje,Opis napojów,napoje/opis,
 48,Drink Type,Napoje,Rodzaje napojów,napoje/rodzaje,
-49,Electrical Computer,Urządzenia elektryczne,Komputer (sprzęt),urzadzenia-elektryczne/komputer,sprzęt; ikony interfejsu są w kat. 36
+49,Electrical Computer,Komputer,Sprzęt i obsługa,komputer/sprzet-i-obsluga,"w źródle w domenie Electrical; przeniesione do Komputer, bo to ten sam obszar pojęciowy co kat. 36"
 50,Electrical General,Urządzenia elektryczne,Ogólne,urzadzenia-elektryczne/ogolne,
 51,Electrical Media,Urządzenia elektryczne,Media i fotografia,urzadzenia-elektryczne/media,
 52,Electrical Phone,Urządzenia elektryczne,Telefon,urzadzenia-elektryczne/telefon,
@@ -87,7 +87,7 @@ category-id,category-en,domena-pl,podkategoria-pl,sciezka,uwagi
 86,Music Instrument,Muzyka,Instrumenty,muzyka/instrumenty,
 87,Number,Liczby,Liczebniki,liczby/liczebniki,
 88,Number Activity,Liczby,Działania i matematyka,liczby/dzialania-i-matematyka,
-89,People Actions,Ludzie,Czynności,ludzie/czynnosci,czasowniki
+89,People Actions,Ludzie,Czynności,ludzie/czynnosci,"5 czasowników rozproszonych znaczeniowo (ruch, odpoczynek, praca); zob. verbs-pl.csv"
 90,People Descriptive,Ludzie,Cechy i opis osób,ludzie/opis-osob,
 91,People Feelings,Ludzie,Uczucia i emocje,ludzie/uczucia,
 92,People Profession,Ludzie,Zawody,ludzie/zawody,"warianty numerowane (_1a, _1b, _2a, _2b)"
@@ -95,9 +95,9 @@ category-id,category-en,domena-pl,podkategoria-pl,sciezka,uwagi
 94,Plants and Trees,Rośliny i drzewa,,rosliny-i-drzewa,
 95,Politics,Polityka,,polityka,jeden symbol (Houses_of_Parliament)
 96,Question,Pytania,,pytania,
-97,Religion Festival,Religia,Święta,religia/swieta,"treść chrześcijańska (Advent, Crucifixion, Last_Supper)"
-98,Religion General,Religia,Ogólne,religia/ogolne,treść chrześcijańska
-99,Religion Person,Religia,Postacie,religia/postacie,"treść chrześcijańska (Jesus, Judas, Mary)"
+97,Religion Festival,Religia,Święta,religia/swieta,"wyłącznie treść chrześcijańska (tag Christian), bez oznaczeń wyznaniowych w nazwach; tradycje angielskie: Harvest_Festival, Shrove_Tuesday_1, Boxing_Day"
+98,Religion General,Religia,Ogólne,religia/ogolne,"wyłącznie treść chrześcijańska (tag Christian), bez oznaczeń wyznaniowych w nazwach"
+99,Religion Person,Religia,Postacie,religia/postacie,"wyłącznie treść chrześcijańska; Puritans to jedyny symbol wprost wyznaniowy (protestantyzm angielski); carol_singer: tradycja angielska"
 100,Science,Nauka,Ogólne,nauka/ogolne,
 101,Science Astronomy,Nauka,Astronomia,nauka/astronomia,
 102,Science Eco,Nauka,Ekologia,nauka/ekologia,
