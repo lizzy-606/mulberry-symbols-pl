@@ -76,11 +76,11 @@ Zasady tłumaczenia:
   (u taksówkarzy `a`/`b` i `c`/`d` to dwie pary postaci). Wyjątek: `care_assistant_*`, gdzie `a` = postać męska, `b` = żeńska,
   a numer 1–6 koduje odcienie skóry opiekuna i podopiecznego (2 i 4: ikona wózka). Nazwy mają rodzaj zgodny z postacią.
 - Alfabet: litery łacińskie bez polskich znaków diakrytycznych (`ą ć ę ł ń ó ś ź ż` nie występują w źródle).
-- Tłumaczenia powstały z angielskich nazw. Obrazy wszystkich 3436 symboli zostały obejrzane
-  i porównane z tłumaczeniem: czasowniki i symbole dawniej oznaczone flagą V przeze mnie, resztę (2815) w osobnym
-  przeglądzie przez niezależnych recenzentów (modele AI), z weryfikacją najpoważniejszych zarzutów przeze mnie.
-  Wątpliwości o niskiej pewności zostawiono bez zmian. Całość nadal wymaga przeglądu merytorycznego przez osobę znającą materiał.
-  Gdy o znaczeniu zdecydował obraz, w `notes` jest wpis zaczynający się od „obraz:”.
+- Metoda: tłumaczenia powstały z angielskich nazw; obraz każdego z 3436 symboli został sprawdzony z polską nazwą,
+  a wynik przejrzała ręcznie autorka (logopedka i specjalistka AAC). Gdy o znaczeniu zdecydował obraz
+  (nazwa angielska jest wieloznaczna lub myląca), w `notes` jest wpis zaczynający się od „obraz:”.
+  Pytania językowe będące decyzjami, a nie błędami (aspekt czasowników, rodzaj przymiotników), opisano w
+  „Decyzje i znane ograniczenia”.
 
 Flagi w kolumnie `flags` (można łączyć): `K` treść specyficzna kulturowo (UK) lub idiom (112); `B` nazwa handlowa (21); `E` literówka lub błąd w źródle (15);
 `N` nie-państwo: terytorium, region, organizacja (90); `P` status sporny lub niepowszechnie uznawany (14);

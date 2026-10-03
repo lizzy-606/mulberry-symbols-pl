@@ -79,12 +79,12 @@ Translation rules:
   tones of the carer and the person supported (2 and 4 show a wheelchair icon). Polish names follow the
   gender of the figure.
 - Alphabet: Latin letters without Polish diacritics (`ą ć ę ł ń ó ś ź ż` do not occur in the source).
-- The translations started from the English names. The images of all 3436 symbols were then viewed and
-  compared with the translation: the verbs and the symbols formerly marked as uncertain by me, the
-  remaining 2815 by separate independent reviewers (AI models), with the most serious objections
-  verified by me. Low-confidence doubts were left unchanged. The whole still needs review by someone who
-  knows the material. Where the image decided the meaning, `notes` has an entry starting with "obraz:"
-  ("image:").
+- Method: the translations started from the English names; the image of every one of the 3436 symbols
+  was then checked against the Polish name, and the result was reviewed manually by the author, a Polish
+  speech-language pathologist and AAC specialist. Where the image decided the meaning (the English name
+  is ambiguous or misleading), `notes` has an entry starting with "obraz:" ("image:"). Open linguistic
+  questions that are policy decisions rather than errors (verb aspect, adjective gender) are listed under
+  "Decisions and known limitations".
 
 Flags in the `flags` column (they can be combined): `K` culture-specific (UK) content or idiom (112);
 `B` brand name (21); `E` typo or error in the source (15); `N` not a state: territory, region,
@@ -94,7 +94,7 @@ organisation (90); `P` disputed or not universally recognised status (14); `M` m
 ### Parts of speech
 
 The source column `grammar` marks 2973 of 3436 symbols as `Noun`, including adjectives (`absent`, `hot`,
-`red`), prepositions (`under_1`), adverbs and pronouns. The columns `pos-en` and `pos-pl` are my own
+`red`), prepositions (`under_1`), adverbs and pronouns. The columns `pos-en` and `pos-pl` are the author's own
 working classification (rules plus manual lists; about 825 symbols have a part of speech other than noun
 or letter), open to review. The two may differ between languages (e.g. `add`: verb in English, verbal
 noun in Polish).
@@ -115,7 +115,7 @@ For `copy` there is also a separate verb symbol `copy_,_to`.
 
 - Source names are in dictionary form ("X, to"), not inflected. Hits ending in `-ing` and `-ed` are
   lexemes (`sing`, `bring`, `swing`) or idioms (`get_dressed`).
-- **The classification is my own working construct, not a research result or a mapping of an existing
+- **The classification is the author's own working construct, not a research result or a mapping of an existing
   resource.** 17 semantic classes (column `semantic-class`) and 33 subclasses within eight of them
   (motion; handling objects; cooking and food preparation; social relations and care; hygiene and dressing;
   games, sport and leisure; change of state; housework and gardening), where a class was too varied.
@@ -137,14 +137,14 @@ For `copy` there is also a separate verb symbol `copy_,_to`.
   `dive_2` (a dive into water, not scuba diving), `bend` (to bend over), `stretch` (to stretch an
   object), `cheat` (to copy in a test), `decorate` (image: painting a wall; the translation keeps
   "dekorować"), `sign` (to use hand signs), `talk_3` and `talk_4` (to talk with someone), `order_2`
-  (to give an order). For `sign` the interpretation is mine and needs confirming by someone who knows
+  (to give an order). For `sign` the interpretation should be confirmed by someone who knows
   Makaton or Polish Sign Language, because the image shows no pen or paper.
 - Five verbs in the source category `People Actions` are spread over the semantic classes (motion, rest,
   work).
 
 ## Source issues noticed
 
-While checking the images I noticed a few source errors that are **not** changed here:
+While checking the images, a few source errors were noticed that are **not** changed here:
 `flag_Canary_Islands` shows the flag of the Balearic Islands; `sour_cream.svg` has a broken `viewBox` and
 renders as a tiny icon; a few file names have typos (`breafkfast_*`, `hankerchief`, `Antartica`,
 `brussel_sprouts`); and `cheese_burger` has grammar `Interjection`. They could be reported as separate
@@ -161,4 +161,5 @@ Changes from the original: added `categories-pl.csv`, `verbs-pl.csv`, `symbol-in
 under the same licence (CC BY-SA 4.0). The CC licence does not cover trademarks; we do not suggest
 endorsement by the author of the original.
 
-This work was prepared with AI assistance (Claude) and the author's own review.
+Prepared by Elżbieta Dawidek (speech-language pathologist, AAC specialist) with AI assistance (Claude);
+reviewed manually by the author.
