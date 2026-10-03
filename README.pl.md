@@ -81,7 +81,7 @@ drzewo katalogów. Materiał pochodny jest udostępniany na tej samej licencji (
 Plik zawiera wszystkie 3436 symboli (jeden wiersz = jeden plik w `EN/`; klucz: `symbol-en` = nazwa pliku bez `.svg`).
 Tłumaczenie jest **roboczym materiałem do przeglądu**, a nie decyzją o zawartości bazy – kolumna `decyzja-do-bazy` jest celowo pusta.
 
-Kolumny: `symbol-id`, `symbol-en`, `symbol-pl`, `domena-pl`, `podkategoria-pl` (z `categories-pl.csv`), `czesc-mowy-zrodlo` (z oryginalnego `symbol-info.csv`), `wariant` (sufiks wariantu obrazu, np. `1`, `2b`), `klasa-semantyczna` i `aspekt` (tylko czasowniki, z `verbs-pl.csv`), `uwagi`, `flaga`, `decyzja-do-bazy`.
+Kolumny: `symbol-id`, `symbol-en`, `symbol-pl`, `domena-pl`, `podkategoria-pl` (z `categories-pl.csv`), `czesc-mowy-zrodlo` (z oryginalnego `symbol-info.csv`; prawie wszędzie `Noun`, więc nieużyteczne), `czesc-mowy-en` (poprawiona część mowy angielskiego odpowiednika) i `czesc-mowy-pl` (część mowy polskiego odpowiednika; mogą się różnić, np. `add` – verb → „dodawanie” – rzeczownik odczasownikowy), `rodzaj-formy-pl` (dla przymiotników: jaką formę rodzajową zapisano), `wariant` (sufiks wariantu obrazu, np. `1`, `2b`), `klasa-semantyczna` i `aspekt` (tylko czasowniki, z `verbs-pl.csv`), `uwagi`, `flaga`, `decyzja-do-bazy`.
 
 Zasady:
 - Czasowniki: bezokolicznik (forma słownikowa) z `verbs-pl.csv`; pozostałe nazwy w mianowniku liczby pojedynczej, chyba że obraz pokazuje liczbę mnogą.
@@ -91,3 +91,5 @@ Zasady:
 - Tłumaczenia powstały bez oglądania każdego obrazu; zostały przygotowane maszynowo i wymagają przeglądu merytorycznego przez osobę znającą AAC i polszczyznę.
 
 Licencja: tłumaczenia są pracą zależną od zbioru CC BY-SA 4.0 (© 2018–2026 Steve Lee) i dziedziczą tę licencję; oryginalne pliki SVG nie zostały zmienione.
+
+Części mowy: źródłowa kolumna `grammar` oznacza jako `Noun` 2973 z 3436 symboli, także przymiotniki (`absent`, `hot`, `red`), przyimki (`under_1`), przysłówki i zaimki. Kolumny `czesc-mowy-en` i `czesc-mowy-pl` są klasyfikacją roboczą (reguły + ręczne listy dla ok. 750 pozycji nie-rzeczownikowych), do przeglądu. Przymiotniki mają w polskim rodzaj, liczbę i przypadek; plik zapisuje formę podstawową (mianownik lp. rodzaju męskiego), a decyzja, czy potrzebne są pary rodzajowe, jest otwarta.
