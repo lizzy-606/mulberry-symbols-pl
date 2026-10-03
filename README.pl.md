@@ -93,3 +93,13 @@ Zasady:
 Licencja: tłumaczenia są pracą zależną od zbioru CC BY-SA 4.0 (© 2018–2026 Steve Lee) i dziedziczą tę licencję; oryginalne pliki SVG nie zostały zmienione.
 
 Części mowy: źródłowa kolumna `grammar` oznacza jako `Noun` 2973 z 3436 symboli, także przymiotniki (`absent`, `hot`, `red`), przyimki (`under_1`), przysłówki i zaimki. Kolumny `czesc-mowy-en` i `czesc-mowy-pl` są klasyfikacją roboczą (reguły + ręczne listy dla ok. 750 pozycji nie-rzeczownikowych), do przeglądu. Przymiotniki mają w polskim rodzaj, liczbę i przypadek; plik zapisuje formę podstawową (mianownik lp. rodzaju męskiego), a decyzja, czy potrzebne są pary rodzajowe, jest otwarta.
+
+## Podział semantyczny czasowników (wersja 2)
+
+`verbs-pl.csv` ma teraz dwa poziomy: `klasa-semantyczna` (17 klas, własna roboczo-praktyczna taksonomia pod AAC) i `podklasa-semantyczna` (33 podklasy w 10 klasach, tam gdzie klasa była zbyt różnorodna; pusta dla pozostałych). Dawny worek „manipulowanie przedmiotami” (58) rozpadł się na: chwytanie i trzymanie, przemieszczanie przedmiotów, uderzanie i dotykanie, łączenie i rozdzielanie, płyny i powierzchnie, pomiar. `decorate_tree` przeniesiono do „tworzenie i rzemiosło”.
+
+Kolumna `domena-wordnet` to przybliżone, ręczne przyporządkowanie do jednej z 15 domen leksykograficznych czasowników, które stosuje Princeton WordNet (`verb.body`, `verb.change`, `verb.cognition`, `verb.communication`, `verb.competition`, `verb.consumption`, `verb.contact`, `verb.creation`, `verb.emotion`, `verb.motion`, `verb.perception`, `verb.possession`, `verb.social`, `verb.stative`, `verb.weather`) i, w analogicznym zestawie, Słowosieć (plWordNet). Nie jest to wyszukanie w słowniku, tylko mój przydział według znaczenia obrazu i polskiego bezokolicznika; służy do porównań z innymi zasobami, nie do ostatecznych rozstrzygnięć. Domena `weather` nie występuje, bo żaden z symboli czasownikowych o pogodzie jej nie wymaga w tej wersji.
+
+Uwaga: 10 symboli, których angielska nazwa jest czasownikiem, leży poza kategorią „Verb” i nie ma wiersza w `verbs-pl.csv` (`add`, `subtract`, `multiply`, `divide`, `copy`, `paste`, `print`, `save`, `float`, `mend`); w `symbol-info-pl.csv` mają odpowiednio rzeczownik odczasownikowy, czasownik w trybie rozkazującym lub przymiotnik jako część mowy polskiej.
+
+Drzewo katalogów: `node scripts/mk-tree-pl.js --verbs` buduje `czasowniki-wg-znaczenia/<klasa>/<podklasa>/` (podklasa pomijana tam, gdzie jej nie ma).

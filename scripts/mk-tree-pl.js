@@ -49,7 +49,9 @@ if (flag('--verbs')) {
     verbSeen.add(name);
     const src = path.join(ROOT, 'EN', `${name}.svg`);
     if (!fs.existsSync(src)) verbErrors.push(`brak pliku: EN/${name}.svg`);
-    verbPlan.push({ src, dest: path.join(verbOut, v['klasa-sciezka'], `${name}.svg`) });
+    if (!v['klasa-sciezka']) verbErrors.push(`brak klasa-sciezka: ${name}`);
+    if (v['podklasa-semantyczna'] && !v['podklasa-sciezka']) verbErrors.push(`podklasa bez ścieżki: ${name}`);
+    verbPlan.push({ src, dest: path.join(verbOut, v['klasa-sciezka'], v['podklasa-sciezka'] || '', `${name}.svg`) });
   }
   // Każdy czasownik wg źródła (gramatyka lub sufiks _,_to) musi mieć wiersz.
   for (const s of symbols) {
@@ -62,9 +64,17 @@ if (flag('--verbs')) {
     process.exit(1);
   }
   const perClass = new Map();
-  for (const v of verbs) perClass.set(v['klasa-semantyczna'], (perClass.get(v['klasa-semantyczna']) || 0) + 1);
-  console.log(`Czasowników: ${verbPlan.length} | klas semantycznych: ${perClass.size}`);
+  const perSub = new Map();
+  for (const v of verbs) {
+    perClass.set(v['klasa-semantyczna'], (perClass.get(v['klasa-semantyczna']) || 0) + 1);
+    if (v['podklasa-semantyczna']) {
+      const k = `${v['klasa-semantyczna']} / ${v['podklasa-semantyczna']}`;
+      perSub.set(k, (perSub.get(k) || 0) + 1);
+    }
+  }
+  console.log(`Czasowników: ${verbPlan.length} | klas semantycznych: ${perClass.size} | podklas: ${perSub.size}`);
   [...perClass.entries()].sort((a, b) => b[1] - a[1]).forEach(([k, n]) => console.log(`  ${String(n).padStart(4)}  ${k}`));
+  [...perSub.entries()].sort().forEach(([k, n]) => console.log(`        ${String(n).padStart(4)}  ${k}`));
   if (DRY) {
     console.log('Tryb --dry-run: walidacja przeszła, nic nie zapisano.');
     process.exit(0);
