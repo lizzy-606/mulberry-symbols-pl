@@ -75,7 +75,7 @@ symbol-id,symbol-en,grammar,category-id,bezokolicznik-pl,aspekt,klasa-semantyczn
 2278,"polish_nails_,_to",VerbComplex,75,malować paznokcie,ndk,higiena i ubieranie się,higiena-i-ubieranie,"pielęgnacja włosów, paznokci i wyglądu",pielegnacja-wlosow-paznokci-i-wygladu,body,
 2282,"pop_champagne_cork_,_to",VerbComplex,45,otwierać szampana,ndk,jedzenie i picie,jedzenie-i-picie,,,consumption,
 2305,"pour_cake_mixture_,_to",Noun,71,wlewać ciasto,ndk,gotowanie i obróbka żywności,gotowanie,"mieszanie, nakładanie i dekorowanie",mieszanie-nakladanie-i-dekorowanie,motion,w źródle gramatyka Noun mimo nazwy czasownikowej
-2306,"pour_custard_,_to",Verb,71,polewać kremem,ndk,gotowanie i obróbka żywności,gotowanie,"mieszanie, nakładanie i dekorowanie",mieszanie-nakladanie-i-dekorowanie,motion,"custard: krem angielski, realia brytyjskie"
+2306,"pour_custard_,_to",Verb,71,polewać sosem waniliowym (custard),ndk,gotowanie i obróbka żywności,gotowanie,"mieszanie, nakładanie i dekorowanie",mieszanie-nakladanie-i-dekorowanie,motion,"custard: krem angielski, realia brytyjskie"
 2310,"pray_,_to",Verb,98,modlić się,ndk,relacje społeczne i opieka,relacje-i-opieka,rytuał i święto,rytual-i-swieto,social,
 2335,"put_in_bin_,_to",VerbComplex,20,wrzucać do kosza,ndk,prace domowe i ogrodowe,prace-domowe-i-ogrodowe,dom i porządki,dom-i-porzadki,contact,
 2336,"put_on_cap_,_to",VerbComplex,75,zakładać czapkę,ndk,higiena i ubieranie się,higiena-i-ubieranie,ubieranie i rozbieranie,ubieranie-i-rozbieranie,body,
@@ -177,7 +177,7 @@ symbol-id,symbol-en,grammar,category-id,bezokolicznik-pl,aspekt,klasa-semantyczn
 3144,"change_,_to",Verb,113,zmieniać,ndk,zmiana stanu,zmiana-stanu,przemiany,przemiany,change,
 3145,"change_clothes_,_to",VerbComplex,113,przebierać się,ndk,higiena i ubieranie się,higiena-i-ubieranie,ubieranie i rozbieranie,ubieranie-i-rozbieranie,body,
 3146,"change_mind_,_to",VerbComplex,113,zmieniać zdanie,ndk,poznanie i percepcja,poznanie-i-percepcja,,,cognition,
-3147,"change_weather_,_to",VerbComplex,113,zmieniać się,ndk,zmiana stanu,zmiana-stanu,przemiany,przemiany,change,o pogodzie
+3147,"change_weather_,_to",VerbComplex,113,zmieniać się (o pogodzie),ndk,zmiana stanu,zmiana-stanu,przemiany,przemiany,change,o pogodzie
 3148,"chase_,_to",Verb,113,gonić,ndk,ruch,ruch,"chodzenie, bieg i wspinaczka",chodzenie-bieg-i-wspinaczka,motion,
 3149,"cheat_,_to",Verb,113,oszukiwać,ndk,relacje społeczne i opieka,relacje-i-opieka,konflikt i przemoc,konflikt-i-przemoc,social,
 3150,"chew_,_to",Verb,113,żuć,ndk,jedzenie i picie,jedzenie-i-picie,,,consumption,
