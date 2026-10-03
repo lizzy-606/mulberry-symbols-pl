@@ -146,7 +146,7 @@ For `copy` there is also a separate verb symbol `copy_,_to`.
 
 While checking the images I noticed a few source errors that are **not** changed here:
 `flag_Canary_Islands` shows the flag of the Balearic Islands; `sour_cream.svg` has a broken `viewBox` and
-renders as a tiny icon; a few file names have typos (`breakfast_*`, `hankerchief`, `Antartica`,
+renders as a tiny icon; a few file names have typos (`breafkfast_*`, `hankerchief`, `Antartica`,
 `brussel_sprouts`); and `cheese_burger` has grammar `Interjection`. They could be reported as separate
 issues.
 
