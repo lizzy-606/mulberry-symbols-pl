@@ -75,3 +75,19 @@ licencja [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 Zmiany względem oryginału: dodano polską taksonomię kategorii i skrypt generujący
 drzewo katalogów. Materiał pochodny jest udostępniany na tej samej licencji (CC BY-SA 4.0).
+
+## Polskie nazwy wszystkich symboli (`scripts/data/symbol-info-pl.csv`)
+
+Plik zawiera wszystkie 3436 symboli (jeden wiersz = jeden plik w `EN/`; klucz: `symbol-en` = nazwa pliku bez `.svg`).
+Tłumaczenie jest **roboczym materiałem do przeglądu**, a nie decyzją o zawartości bazy – kolumna `decyzja-do-bazy` jest celowo pusta.
+
+Kolumny: `symbol-id`, `symbol-en`, `symbol-pl`, `domena-pl`, `podkategoria-pl` (z `categories-pl.csv`), `czesc-mowy-zrodlo` (z oryginalnego `symbol-info.csv`), `wariant` (sufiks wariantu obrazu, np. `1`, `2b`), `klasa-semantyczna` i `aspekt` (tylko czasowniki, z `verbs-pl.csv`), `uwagi`, `flaga`, `decyzja-do-bazy`.
+
+Zasady:
+- Czasowniki: bezokolicznik (forma słownikowa) z `verbs-pl.csv`; pozostałe nazwy w mianowniku liczby pojedynczej, chyba że obraz pokazuje liczbę mnogą.
+- Flagi w kolumnie `flaga` (można łączyć): `V` – tłumaczenie niepewne, do sprawdzenia na obrazie; `K` – treść specyficzna kulturowo (Wielka Brytania) lub idiom; `B` – nazwa handlowa; `E` – literówka/błąd w źródle; `N` – nie-państwo (terytorium, region, organizacja); `P` – sporny lub niepowszechnie uznawany status; `M` – czasownik ruchu (iść/chodzić itp.); `G` – gramatyka w źródle niespójna z nazwą; `R` – symbol oznaczony w źródle jako `rated=1`.
+- Zawody (`People Profession`): `_1x` = postać męska, `_2x` = żeńska (sprawdzone wizualnie na kilku zawodach), litera `a`/`b` = odcień skóry; polskie nazwy mają formę rodzajową zgodną z postacią; tam, gdzie istnieje tylko jeden wariant płci lub wariant `c`/`d`, rodzaj jest oznaczony `V`.
+- Alfabet: litery łacińskie bez polskich znaków diakrytycznych (`ą ć ę ł ń ó ś ź ż` nie występują w źródle).
+- Tłumaczenia powstały bez oglądania każdego obrazu; zostały przygotowane maszynowo i wymagają przeglądu merytorycznego przez osobę znającą AAC i polszczyznę.
+
+Licencja: tłumaczenia są pracą zależną od zbioru CC BY-SA 4.0 (© 2018–2026 Steve Lee) i dziedziczą tę licencję; oryginalne pliki SVG nie zostały zmienione.
